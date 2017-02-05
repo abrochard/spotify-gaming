@@ -32,35 +32,31 @@
 
                     albumList.maxBatch = 20;
                     albumList.chunkSize = 12;
+                    albumList.raw = [];
                     albumList.albums = [];
+                    albumList.total = albums.length;
 
 
-                    var getAlbums = function(ids) {
-                        return $http.get('https://api.spotify.com/v1/albums?ids=' + ids.join())
-                                    .then(function(response) {
-                                        return response.data;
-                                    });
+                    albumList.getAlbums = function(ids, callback) {
+                        $http.get('https://api.spotify.com/v1/albums?ids=' + ids.join())
+                             .then(function(response) {
+                                 callback(response.data);
+                             });
                     };
 
                     albumList.parseAlbums = function(albums) {
-                        var raw = [];
                         var ids = albums.map(function(el) {
                             return el.split('/').pop();
                         });
 
                         while (ids.length > 0) {
-                            if (ids.length <= albumList.maxBatch) {
-                                getAlbums(ids.splice(0, albumList.maxBatch))
-                                    .then(function(data) {
-                                        raw = raw.concat(data.albums);
-                                    });
-                            } else {
-                                getAlbums(ids.splice(0, albumList.maxBatch))
-                                    .then(function(data) {
-                                        raw = raw.concat(data.albums);
-                                        albumList.splitAlbums(raw);
-                                    });
-                            }
+                            var chunk = ids.splice(0, albumList.maxBatch);
+                            albumList.getAlbums(chunk, function(data) {
+                                albumList.raw = albumList.raw.concat(data.albums);
+                                if (albumList.raw.length == albumList.total) {
+                                    albumList.splitAlbums(albumList.raw);
+                                }
+                            });
                         }
                     };
 
