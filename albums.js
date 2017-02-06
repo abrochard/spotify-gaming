@@ -19,9 +19,10 @@ var albums = [
   'https://open.spotify.com/album/4ynYSjDmlRH6tc7hNWuv7J', // Hotline Miami
   'https://open.spotify.com/album/7yRFTXb2wZoxI04MSK54o4', // Hotline Miami
   'https://open.spotify.com/album/0Cqdcsm1RNSme7uDYfKssS', // Hotline Miami
-  // 'https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp', // Doom
-  // 'https://open.spotify.com/album/4aKKWSgxf7U7FN7njmi4MH', // God of War III
-  // 'https://open.spotify.com/album/7AeuCduXts5efoVLam7dUk', // Uncharted 2
-  // 'https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7', // Uncharted 3
-  // 'https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj', // Infamous
+  'https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp', // Doom
+  'https://open.spotify.com/album/4aKKWSgxf7U7FN7njmi4MH', // God of War III
+  'https://open.spotify.com/album/7AeuCduXts5efoVLam7dUk', // Uncharted 2
+  'https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7', // Uncharted 3
+  'https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj', // Infamouss
+  'https://open.spotify.com/album/46XBodEMc5dbor2odnjJUq', // Crypt of the Necrodancer
 ];
