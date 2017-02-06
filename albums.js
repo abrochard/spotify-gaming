@@ -25,4 +25,5 @@ var albums = [
   'https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7', // Uncharted 3
   'https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj', // Infamouss
   'https://open.spotify.com/album/46XBodEMc5dbor2odnjJUq', // Crypt of the Necrodancer
+  'https://open.spotify.com/album/3B0PgLmgaW0gJth55ApWbw', // Transistor
 ];

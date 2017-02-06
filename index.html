@@ -77,6 +77,10 @@
              padding:0;
          }
 
+         .full-width{
+             width:100%;
+         }
+
          .album {
              width:100%;
          }
@@ -94,7 +98,7 @@
     </head>
     <body>
         <div ng-controller="AlbumListController as albumList">
-            <div ng-repeat="rows in albumList.albums" class="row">
+            <div ng-repeat="rows in albumList.albums" class="row full-width">
                 <div ng-repeat="item in rows" class="col-md-{{12/albumList.chunkSize}} no-padding">
                     <div class="album">
                         <a target="_blank" href="{{item.external_urls.spotify}}">
