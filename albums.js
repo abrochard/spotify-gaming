@@ -26,4 +26,8 @@ var albums = [
   'https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj', // Infamouss
   'https://open.spotify.com/album/46XBodEMc5dbor2odnjJUq', // Crypt of the Necrodancer
   'https://open.spotify.com/album/3B0PgLmgaW0gJth55ApWbw', // Transistor
+  'https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO', // Rocket League
+  'https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo', // Ori and the Blind Forest
+  'https://open.spotify.com/album/7fS5tGixMNR7s3G5Eh515y', // Mirror's Edge
+  'https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN', // Super Meat Boy
 ];
