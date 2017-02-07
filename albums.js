@@ -1,5 +1,5 @@
 var albums = [
-  'https://open.spotify.com/album/6AvkC0h2TUdX6fpAKtXqYR', // Castlevanie Symphone of the Night
+  'https://open.spotify.com/album/6AvkC0h2TUdX6fpAKtXqYR', // Castlevania Symphone of the Night
   'https://open.spotify.com/album/70kaIuCoHOZ11adVwGQroA', // Sunset Overdrive
   'https://open.spotify.com/album/5LSmyO0hA8dsgk4g2KS2sX', // Sonic Generations Vol. 1
   'https://open.spotify.com/album/7d6hwzyHCXIE3n3y0e3r8m', // Sonic Generations Vol. 2
@@ -23,11 +23,13 @@ var albums = [
   'https://open.spotify.com/album/4aKKWSgxf7U7FN7njmi4MH', // God of War III
   'https://open.spotify.com/album/7AeuCduXts5efoVLam7dUk', // Uncharted 2
   'https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7', // Uncharted 3
-  'https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj', // Infamouss
+  'https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj', // Infamous
+  'https://open.spotify.com/album/6b0o0e7p8XQctNZLZHL8VK', // Infamous 2
   'https://open.spotify.com/album/46XBodEMc5dbor2odnjJUq', // Crypt of the Necrodancer
   'https://open.spotify.com/album/3B0PgLmgaW0gJth55ApWbw', // Transistor
   'https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO', // Rocket League
   'https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo', // Ori and the Blind Forest
   'https://open.spotify.com/album/7fS5tGixMNR7s3G5Eh515y', // Mirror's Edge
   'https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN', // Super Meat Boy
+  'https://open.spotify.com/album/28LnQrJf1iPp3p7bRBt782', // Metroid Anthology
 ];
