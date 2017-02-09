@@ -32,5 +32,24 @@ var albums = [
   'https://open.spotify.com/album/7fS5tGixMNR7s3G5Eh515y', // Mirror's Edge
   'https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN', // Super Meat Boy
   'https://open.spotify.com/album/28LnQrJf1iPp3p7bRBt782', // Metroid Anthology
+  'https://open.spotify.com/album/1pdM9htaPsGmk7rkpVNEDH', // Batman Arkham Asylum
   'https://open.spotify.com/album/6skLYY2WEVjQ6tvbkSlmTG', // Batman Arkham City
+  'https://open.spotify.com/album/7uIV4R3B5L9ZoJ7WM0t67G', // Batman Arkham Origins
+  'https://open.spotify.com/album/1SI5srPA0dOzJbRdjz34W6', // Castlevania Curse of Darkness
+  'https://open.spotify.com/album/6vHk8R4jcOe0WZnTDDFgXV', // Devil May Cry
+  'https://open.spotify.com/album/1RX5xk76MORiIGaz7HhQUp', // Devil May Cry 2
+  'https://open.spotify.com/album/0dH0HxdxaVim5YiQ8k6nDm', // Devil May Cry 4
+  'https://open.spotify.com/album/1FKr0dY4TzPeJ0m3V5u76k', // DmC
+  'https://open.spotify.com/album/2J2XOIDnJSyNko5Vc4GII5', // Prince of Persia Trilogy
+  'https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv', // Far Cry 3
+  'https://open.spotify.com/album/231L8hGyehsAzmrPrd785m', // Far Cry 3 Blood Dragon
+  'https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R', // The Witcher 3
+  'https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA', // Furi
+  'https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ', // Assassin's Creed 2
+  'https://open.spotify.com/album/48OeUXPCWaqsFNtKr6tqvq', // Rayman Origins
+  'https://open.spotify.com/album/1XdgIQg5BoYpPkLTEB1uHp', // Rayman Legends
+  'https://open.spotify.com/album/2qNJNe5NdM4SnAqfEtTkiX', // Grow Home
+  'https://open.spotify.com/album/4PvakqSTVKDmAj0v0UEuC1', // Monument Valley
+  'https://open.spotify.com/album/2NVNyVmPZ9V5vqo8P1umhc', // Monument Valley Forgotten Shores
+  'https://open.spotify.com/album/673cuQ8hG3FYLbF1HxHJuc', // Worms 2
 ];
