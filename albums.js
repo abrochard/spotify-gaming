@@ -32,4 +32,5 @@ var albums = [
   'https://open.spotify.com/album/7fS5tGixMNR7s3G5Eh515y', // Mirror's Edge
   'https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN', // Super Meat Boy
   'https://open.spotify.com/album/28LnQrJf1iPp3p7bRBt782', // Metroid Anthology
+  'https://open.spotify.com/album/6skLYY2WEVjQ6tvbkSlmTG', // Batman Arkham City
 ];
