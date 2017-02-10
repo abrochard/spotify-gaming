@@ -43,6 +43,8 @@ var albums = [
   'https://open.spotify.com/album/2J2XOIDnJSyNko5Vc4GII5', // Prince of Persia Trilogy
   'https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv', // Far Cry 3
   'https://open.spotify.com/album/231L8hGyehsAzmrPrd785m', // Far Cry 3 Blood Dragon
+  'https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99', // The Witcher
+  'https://open.spotify.com/album/0dAhuTx13ciZIXgan98X7Z', // The Witcher 2
   'https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R', // The Witcher 3
   'https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA', // Furi
   'https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ', // Assassin's Creed 2
@@ -52,4 +54,21 @@ var albums = [
   'https://open.spotify.com/album/4PvakqSTVKDmAj0v0UEuC1', // Monument Valley
   'https://open.spotify.com/album/2NVNyVmPZ9V5vqo8P1umhc', // Monument Valley Forgotten Shores
   'https://open.spotify.com/album/673cuQ8hG3FYLbF1HxHJuc', // Worms 2
+  'https://open.spotify.com/album/5Jyf9nzGcltNocdWYbh0Q1', // Dante's Inferno
+  'https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg', // Red Dead Redemption
+  'https://open.spotify.com/album/5cyrfafppjyPgmUr4rbZFq', // Broken Age
+  'https://open.spotify.com/album/2F32Xg7gK6iGyqU17Ifijm', // Psychonauts
+  'https://open.spotify.com/album/63JTzw7vuxUhhLXYIyRmNN', // Risk of Rain
+  'https://open.spotify.com/album/1cVsczQdIhX9Tf2dOMjjvc', // The Binding of Isaac
+  'https://open.spotify.com/album/4FZ63qgkr6jLWPKi58Sg0l', // Rogue Legacy
+  'https://open.spotify.com/album/6rqgb726zE5CQOcwi30MMQ', // Remember Me
+  'https://open.spotify.com/album/3UVyUHogFcjirdS5AsmXzG', // Max Payne 3
+  'https://open.spotify.com/album/2WZQRkMkpd8zvu54quUpHD', // Cloudbuilt
+  'https://open.spotify.com/album/20tctCeODWwQ0h8TPQZXyb', // Need for Speed: Most Wanted
+  'https://open.spotify.com/album/3DFCTOiZwQM3WXDOuJhswI', // Hitman Blood Money
+  'https://open.spotify.com/album/7j9KRnJVZ860cM5qU7XuKR', // Age of Empires 3
+  'https://open.spotify.com/album/3g5dU6hefEYef4QAWtwimx', // Lovely Planet
+  'https://open.spotify.com/album/7tqcyvjNAziHZYSMXzUPFu', // Diablo II
+  'https://open.spotify.com/album/4vxma8UfdSyZbNHU5wpzQc', // Neon Struct
+  'https://open.spotify.com/album/6a8Qf1XeKiOTAdSwk3Qa16', // Flower
 ];
