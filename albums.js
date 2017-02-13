@@ -71,4 +71,5 @@ var albums = [
   'https://open.spotify.com/album/7tqcyvjNAziHZYSMXzUPFu', // Diablo II
   'https://open.spotify.com/album/4vxma8UfdSyZbNHU5wpzQc', // Neon Struct
   'https://open.spotify.com/album/6a8Qf1XeKiOTAdSwk3Qa16', // Flower
+  'https://open.spotify.com/album/4o2M5oBuy4jjJesyHlgfec', // Zelda - Ocarina of Time
 ];
