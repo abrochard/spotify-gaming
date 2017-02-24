@@ -48,6 +48,10 @@ var albums = [
   'https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R', // The Witcher 3
   'https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA', // Furi
   'https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ', // Assassin's Creed 2
+  'https://open.spotify.com/album/1qvTY6mcUNAzP9BCABiMIe', // Assassin's Creed Brotherhood
+  'https://open.spotify.com/album/4YQsbhCYkpmueqKC4aEn7f', // Assassin's Creed Revelations
+  'https://open.spotify.com/album/23aWOneOrCl1KBfDCo2pFy', // Assassin's Creed 3
+  'https://open.spotify.com/album/7G0O4t6PMa6bcOLc3KgztU', // Assassin's Creed 4
   'https://open.spotify.com/album/48OeUXPCWaqsFNtKr6tqvq', // Rayman Origins
   'https://open.spotify.com/album/1XdgIQg5BoYpPkLTEB1uHp', // Rayman Legends
   'https://open.spotify.com/album/2qNJNe5NdM4SnAqfEtTkiX', // Grow Home
@@ -65,6 +69,8 @@ var albums = [
   'https://open.spotify.com/album/3UVyUHogFcjirdS5AsmXzG', // Max Payne 3
   'https://open.spotify.com/album/2WZQRkMkpd8zvu54quUpHD', // Cloudbuilt
   'https://open.spotify.com/album/20tctCeODWwQ0h8TPQZXyb', // Need for Speed: Most Wanted
+  'https://open.spotify.com/album/6580JNX7eatcbusHZwTRN3', // Hitman 2
+  'https://open.spotify.com/album/1nBrgXq5P8CboSs3YZN6et', // Hitman Contracts
   'https://open.spotify.com/album/3DFCTOiZwQM3WXDOuJhswI', // Hitman Blood Money
   'https://open.spotify.com/album/7j9KRnJVZ860cM5qU7XuKR', // Age of Empires 3
   'https://open.spotify.com/album/3g5dU6hefEYef4QAWtwimx', // Lovely Planet
@@ -74,4 +80,23 @@ var albums = [
   'https://open.spotify.com/album/4o2M5oBuy4jjJesyHlgfec', // Zelda - Ocarina of Time
   'https://open.spotify.com/album/358HhLekPvkg13A1dDPfhT', // Hyper Light Drifter
   'https://open.spotify.com/album/2OMhLFqYTFrAzHBwJI8bwM', // Rocketbirds
+  'https://open.spotify.com/album/3Z3EhZFG2bXxKP2BF7JbAd', // Injustice: Gods Among Us
+  'https://open.spotify.com/album/18Kir7EZdUYWwGxYHhaYmu', // Dragon Age: Origins
+  'https://open.spotify.com/album/7KwqcypmfvpVejdUyZTWMX', // Dragon Age: Inquisition
+  'https://open.spotify.com/album/4ElpWQqlpCvSznwxK4U35P', // Crysis
+  'https://open.spotify.com/album/6uNxILubrUvcyTqG6VuSdk', // Crysis 2
+  'https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh', // The Last of Us
+  'https://open.spotify.com/album/5zhAb5BiVj4cXCXW760wd4', // Civ Beyond Earth
+  'https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj', // Halo
+  'https://open.spotify.com/album/7LAtVqVh3ojtwDNSuEdNn2', // Halo 2 Vol. 1
+  'https://open.spotify.com/album/2Ll3uGUqd05Uo0fNrQSh4m', // Halo 2 Vol. 2
+  'https://open.spotify.com/album/24umXlor1zlXU0H0xBakqD', // Halo 3
+  'https://open.spotify.com/album/1k8JDdearbBEc2DJ48CRvg', // Halo 5
+  'https://open.spotify.com/album/7rGidzYxexJJ0OKin1RRHx', // Fallout 4
+  'https://open.spotify.com/album/3gWn1tTKgNqlsKG3Pf4RSv', // Splinter Cell Blacklist
+  'https://open.spotify.com/album/5QwO3vHUx9DvFPywMXV8nG', // Splinter Cell Conviction
+  'https://open.spotify.com/album/4lRMKDrp5k52VVGCio32Op', // Gears of War
+  'https://open.spotify.com/album/0dKKlEzO9gwWhD7ag3TUPA', // Gears of War 2
+  'https://open.spotify.com/album/5nECmJ9tA2ShMysaJDv8zb', // Gears of War 3
+  'https://open.spotify.com/album/4GdoCUNWgsCrN2PJIOn37B', // Gears of War 4
 ];
