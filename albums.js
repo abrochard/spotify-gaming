@@ -100,4 +100,7 @@ var albums = [
   'https://open.spotify.com/album/5nECmJ9tA2ShMysaJDv8zb', // Gears of War 3
   'https://open.spotify.com/album/4GdoCUNWgsCrN2PJIOn37B', // Gears of War 4
   'https://open.spotify.com/album/4hSZhhZRwFIAqHEWH6oHL5', // Bayonetta
+  'https://open.spotify.com/album/163rlW0yY6SUBETXD1tXFs', // Abzu
+  'https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44', // The Banner Saga
+  'https://open.spotify.com/album/24LEhJ8W7c0XQe9rorDuLf', // The Banner Saga 2
 ];
