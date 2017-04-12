@@ -99,4 +99,5 @@ var albums = [
   'https://open.spotify.com/album/0dKKlEzO9gwWhD7ag3TUPA', // Gears of War 2
   'https://open.spotify.com/album/5nECmJ9tA2ShMysaJDv8zb', // Gears of War 3
   'https://open.spotify.com/album/4GdoCUNWgsCrN2PJIOn37B', // Gears of War 4
+  'https://open.spotify.com/album/4hSZhhZRwFIAqHEWH6oHL5', // Bayonetta
 ];
