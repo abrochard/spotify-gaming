@@ -103,4 +103,13 @@ var albums = [
   'https://open.spotify.com/album/163rlW0yY6SUBETXD1tXFs', // Abzu
   'https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44', // The Banner Saga
   'https://open.spotify.com/album/24LEhJ8W7c0XQe9rorDuLf', // The Banner Saga 2
+  'https://open.spotify.com/album/7CneZnc5pSVscz4QszEGht', // The Talos Principle
+  'https://open.spotify.com/album/6SCstolTyQVCCtJEEM6DXR', // Beyond Two Souls
+  'https://open.spotify.com/album/0nnAZcUbW3FIa4k6qOby9d', // Darkest Dungeon
+  'https://open.spotify.com/album/1907F3tAFEAdpsQIgAYNzJ', // Serious Sam 3
+  'https://open.spotify.com/album/1D622TWd7hvxVZicNjVLjl', // WatchDogs
+  'https://open.spotify.com/album/5hrEhqDc6sDLMstOBo8jWx', // Fable
+  'https://open.spotify.com/album/1s5GqO8enWc2EmJHhpUWn1', // Resident Evil 5
+  'https://open.spotify.com/album/7zINFDX9Xfrfwv8SU4iuIX', // Resident Evil 6
+  'https://open.spotify.com/album/031LVeJpGTNHThqRXIHXo9', // Seum
 ];
