@@ -112,4 +112,5 @@ var albums = [
   'https://open.spotify.com/album/1s5GqO8enWc2EmJHhpUWn1', // Resident Evil 5
   'https://open.spotify.com/album/7zINFDX9Xfrfwv8SU4iuIX', // Resident Evil 6
   'https://open.spotify.com/album/031LVeJpGTNHThqRXIHXo9', // Seum
+  'https://open.spotify.com/album/4Iwgv9T2tYLu8gd9P6CNBE', // Styx: Shards of Darkness
 ];
