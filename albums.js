@@ -31,6 +31,7 @@ var albums = [
   'https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO', // Rocket League
   'https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo', // Ori and the Blind Forest
   'https://open.spotify.com/album/7fS5tGixMNR7s3G5Eh515y', // Mirror's Edge
+  'https://open.spotify.com/album/6EkvqSSh1Hu9n66AJLTkYB', // Mirror's Edge Catalyst
   'https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN', // Super Meat Boy
   'https://open.spotify.com/album/28LnQrJf1iPp3p7bRBt782', // Metroid Anthology
   'https://open.spotify.com/album/1pdM9htaPsGmk7rkpVNEDH', // Batman Arkham Asylum
@@ -114,6 +115,7 @@ var albums = [
   'https://open.spotify.com/album/4sqsrMqFFAGaKuWWdwoekJ', // Fable II
   'https://open.spotify.com/album/1s5GqO8enWc2EmJHhpUWn1', // Resident Evil 5
   'https://open.spotify.com/album/7zINFDX9Xfrfwv8SU4iuIX', // Resident Evil 6
+  'https://open.spotify.com/album/45H9DLevekKB41uW23dSBf', // Resident Evil 7
   'https://open.spotify.com/album/031LVeJpGTNHThqRXIHXo9', // Seum
   'https://open.spotify.com/album/4Iwgv9T2tYLu8gd9P6CNBE', // Styx: Shards of Darkness
   'https://open.spotify.com/album/43ZjR5Xf8kHWuCjMhJFZW2', // DuckTales Remastered
@@ -137,4 +139,8 @@ var albums = [
   'https://open.spotify.com/album/4kXG8n2QU60hdyIxXESsGk', // MadWorld
   'https://open.spotify.com/album/47m35vB0lPkf5oFPjQozUz', // BoodBorne
   'https://open.spotify.com/album/68kfltNAnV9VCwH7bEkPMJ', // Metro: Last Light
+  'https://open.spotify.com/album/3DNHW2ckMRr3v0f7JF3HcR', // Scott Pilgrim vs. the World
+  'https://open.spotify.com/album/5ZAaYcFudS0BtKhWJqeMCH', // Horizon Zero Dawn
+  'https://open.spotify.com/album/6gocyY7Z5poFOqT5ihhRq8', // Titanfall
+  'https://open.spotify.com/album/5TydVczo6Iu2AkY91tvJZ7', // Titanfall 2
 ];
