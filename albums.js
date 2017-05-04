@@ -3,6 +3,7 @@ var albums = [
   'https://open.spotify.com/album/70kaIuCoHOZ11adVwGQroA', // Sunset Overdrive
   'https://open.spotify.com/album/5LSmyO0hA8dsgk4g2KS2sX', // Sonic Generations Vol. 1
   'https://open.spotify.com/album/7d6hwzyHCXIE3n3y0e3r8m', // Sonic Generations Vol. 2
+  'https://open.spotify.com/album/6Rc7rkokin2O1ewp2vBZjt', // Sonic R
   'https://open.spotify.com/album/2CaTyv2PRp5uG5SHIb2tK5', // Mass Effect
   'https://open.spotify.com/album/1AL4h5rN3vis3unZLvKVjm', // Mass Effect 2
   'https://open.spotify.com/album/7fvGyFc1ike0zd2pE7q9lr', // Mass Effect 3
@@ -73,6 +74,7 @@ var albums = [
   'https://open.spotify.com/album/1nBrgXq5P8CboSs3YZN6et', // Hitman Contracts
   'https://open.spotify.com/album/3DFCTOiZwQM3WXDOuJhswI', // Hitman Blood Money
   'https://open.spotify.com/album/7j9KRnJVZ860cM5qU7XuKR', // Age of Empires 3
+  'https://open.spotify.com/album/3TvvGOz0DPEP0DJWjf6Fyl', // Age of Mythology
   'https://open.spotify.com/album/3g5dU6hefEYef4QAWtwimx', // Lovely Planet
   'https://open.spotify.com/album/7tqcyvjNAziHZYSMXzUPFu', // Diablo II
   'https://open.spotify.com/album/4vxma8UfdSyZbNHU5wpzQc', // Neon Struct
@@ -109,8 +111,30 @@ var albums = [
   'https://open.spotify.com/album/1907F3tAFEAdpsQIgAYNzJ', // Serious Sam 3
   'https://open.spotify.com/album/1D622TWd7hvxVZicNjVLjl', // WatchDogs
   'https://open.spotify.com/album/5hrEhqDc6sDLMstOBo8jWx', // Fable
+  'https://open.spotify.com/album/4sqsrMqFFAGaKuWWdwoekJ', // Fable II
   'https://open.spotify.com/album/1s5GqO8enWc2EmJHhpUWn1', // Resident Evil 5
   'https://open.spotify.com/album/7zINFDX9Xfrfwv8SU4iuIX', // Resident Evil 6
   'https://open.spotify.com/album/031LVeJpGTNHThqRXIHXo9', // Seum
   'https://open.spotify.com/album/4Iwgv9T2tYLu8gd9P6CNBE', // Styx: Shards of Darkness
+  'https://open.spotify.com/album/43ZjR5Xf8kHWuCjMhJFZW2', // DuckTales Remastered
+  'https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r', // Child of Light
+  'https://open.spotify.com/album/0cjzbuzTJ25svDvGnG077x', // Command & Conquer: Red Alert
+  'https://open.spotify.com/album/65d8zcB0uiUE5a2vjLvUNV', // Command & Conquer: Red Alert 2
+  'https://open.spotify.com/album/10PtM3eb2EZ2rofbqRzHCt', // Street Fighter 4
+  'https://open.spotify.com/album/3tRRbyO3fzaeAUYkIIhG4w', // Darksiders II
+  'https://open.spotify.com/album/49yisjohjVCQ8kem7RP0Iq', // Borderlands
+  'https://open.spotify.com/album/337mzRS3hivhPRXorHhCB9', // Borderlands 2
+  'https://open.spotify.com/album/1muCc0xAE42hkbwhnu4ALc', // Black Mesa
+  'https://open.spotify.com/album/319lEniupc0KQ5dKIFqhZV', // Skullgirls
+  'https://open.spotify.com/album/3WYLm38N6Ae5PdKWHL6CEz', // Frozen Synapse
+  'https://open.spotify.com/album/1dHOm1kmbDBK0JVN6n1dYr', // Grim Fandango
+  'https://open.spotify.com/album/0tBFIyFkwg5efxviAyDI0R', // Conker: Live & Reloaded
+  'https://open.spotify.com/album/256LVulHWISPd51J9PtoYI', // Unreal Tournament 3
+  'https://open.spotify.com/album/5eioYQgcYJOfQhsxFjqV6a', // Trine 2
+  'https://open.spotify.com/album/6mdVpHJSE0WGlnN6zd4Ecr', // Valdis Story Abyssal City
+  'https://open.spotify.com/album/3Py1GXY1kqQpaEHgpc28Fc', // Turrican Vol. 1
+  'https://open.spotify.com/album/0lVTTOGPMnRX2VKHldPu3x', // Turrican Vol. 2
+  'https://open.spotify.com/album/4kXG8n2QU60hdyIxXESsGk', // MadWorld
+  'https://open.spotify.com/album/47m35vB0lPkf5oFPjQozUz', // BoodBorne
+  'https://open.spotify.com/album/68kfltNAnV9VCwH7bEkPMJ', // Metro: Last Light
 ];
