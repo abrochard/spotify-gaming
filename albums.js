@@ -145,4 +145,7 @@ var albums = [
   'https://open.spotify.com/album/5ZAaYcFudS0BtKhWJqeMCH', // Horizon Zero Dawn
   'https://open.spotify.com/album/6gocyY7Z5poFOqT5ihhRq8', // Titanfall
   'https://open.spotify.com/album/5TydVczo6Iu2AkY91tvJZ7', // Titanfall 2
+  'https://open.spotify.com/album/0E2NQD9WX7g88aWmlKMg0U', // Legend of Heroes: Sora no Kiseki
+  'https://open.spotify.com/album/55XE7dHvAkXzEf5rJWuxEh', // Legend of Heroes: Sora no Kiseki 2
+  'https://open.spotify.com/album/1vMhK0UKL1EQjZ2Lq1Mh7U', // Legend of Heroes: Sora no Kiseki 3
 ];
