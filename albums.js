@@ -113,6 +113,7 @@ var albums = [
   'https://open.spotify.com/album/1D622TWd7hvxVZicNjVLjl', // WatchDogs
   'https://open.spotify.com/album/5hrEhqDc6sDLMstOBo8jWx', // Fable
   'https://open.spotify.com/album/4sqsrMqFFAGaKuWWdwoekJ', // Fable II
+  'https://open.spotify.com/album/5TYho0vhgHbO3YmVl6Fsxx', // Resident Evil 2
   'https://open.spotify.com/album/1s5GqO8enWc2EmJHhpUWn1', // Resident Evil 5
   'https://open.spotify.com/album/7zINFDX9Xfrfwv8SU4iuIX', // Resident Evil 6
   'https://open.spotify.com/album/45H9DLevekKB41uW23dSBf', // Resident Evil 7
@@ -148,4 +149,5 @@ var albums = [
   'https://open.spotify.com/album/0E2NQD9WX7g88aWmlKMg0U', // Legend of Heroes: Sora no Kiseki
   'https://open.spotify.com/album/55XE7dHvAkXzEf5rJWuxEh', // Legend of Heroes: Sora no Kiseki 2
   'https://open.spotify.com/album/1vMhK0UKL1EQjZ2Lq1Mh7U', // Legend of Heroes: Sora no Kiseki 3
+  'https://open.spotify.com/album/5HHDIhU5YGQJZtbinwJ7PI', // Mega Man Vol. 1
 ];
