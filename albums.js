@@ -137,4 +137,6 @@ var albums = [
   'https://open.spotify.com/album/4kXG8n2QU60hdyIxXESsGk', // MadWorld
   'https://open.spotify.com/album/47m35vB0lPkf5oFPjQozUz', // BoodBorne
   'https://open.spotify.com/album/68kfltNAnV9VCwH7bEkPMJ', // Metro: Last Light
+  'https://open.spotify.com/album/3Nx26K0HGFDzed0EVCcX48', // Stellaris
+  'https://open.spotify.com/album/0tmBuZkjQZski3luPJOR9d', // Dustforce
 ];
