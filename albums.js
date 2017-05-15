@@ -4,6 +4,11 @@ var albums = [
   'https://open.spotify.com/album/5LSmyO0hA8dsgk4g2KS2sX', // Sonic Generations Vol. 1
   'https://open.spotify.com/album/7d6hwzyHCXIE3n3y0e3r8m', // Sonic Generations Vol. 2
   'https://open.spotify.com/album/6Rc7rkokin2O1ewp2vBZjt', // Sonic R
+  'https://open.spotify.com/album/6FMvRwvHLuQs371VRrliq4', // Sonic Adventure
+  'https://open.spotify.com/album/534RtJP8QXhoGc3yNqb5Vb', // Sonic Adventure 2
+  'https://open.spotify.com/album/0F64g7rDH1jsy8rm8zBl9Q', // Sonic CD
+  'https://open.spotify.com/album/65GkBwfIZaLTnETPVbJkiE', // Sonic Colors
+  'https://open.spotify.com/album/1fYiLcgfvEPgQsCzP01qMU', // Sonic Heroes
   'https://open.spotify.com/album/2CaTyv2PRp5uG5SHIb2tK5', // Mass Effect
   'https://open.spotify.com/album/1AL4h5rN3vis3unZLvKVjm', // Mass Effect 2
   'https://open.spotify.com/album/7fvGyFc1ike0zd2pE7q9lr', // Mass Effect 3
@@ -123,6 +128,7 @@ var albums = [
   'https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r', // Child of Light
   'https://open.spotify.com/album/0cjzbuzTJ25svDvGnG077x', // Command & Conquer: Red Alert
   'https://open.spotify.com/album/65d8zcB0uiUE5a2vjLvUNV', // Command & Conquer: Red Alert 2
+  'https://open.spotify.com/album/4jkBDRFtxJ0lKWYcqRSrGZ', // Street Fighter II
   'https://open.spotify.com/album/10PtM3eb2EZ2rofbqRzHCt', // Street Fighter 4
   'https://open.spotify.com/album/3tRRbyO3fzaeAUYkIIhG4w', // Darksiders II
   'https://open.spotify.com/album/49yisjohjVCQ8kem7RP0Iq', // Borderlands
@@ -153,4 +159,12 @@ var albums = [
   'https://open.spotify.com/album/3OOQRkcyunBEAzAuPt8Zow', // Danganronpa
   'https://open.spotify.com/album/5aZnHNph7U5FLfIO4ZCz3l', // Danganronpa 2
   'https://open.spotify.com/album/5Rffk167A50eaLFKo4ATDf', // Danganronpa Another Episode
+  'https://open.spotify.com/album/7KyfdNK4c2fxctS53XXJj4', // Strafe
+  'https://open.spotify.com/album/4YtsY27aUZUNUYpHQad3cf', // Empire Total War
+  'https://open.spotify.com/album/509g4muGnEHiBarCkRUD2F', // Napoleon: Total War
+  'https://open.spotify.com/album/4kaq7bU5PoyYUKXOPFcqT6', // Shogun II: Total War
+  'https://open.spotify.com/album/7k7R6Fn0IbmmYsoGY0QGOJ', // Golden Axe
+  'https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1', // Shinobi
+  'https://open.spotify.com/album/7gupZ78GHfgZNB47AP18ir', // Kunoichi
+  'https://open.spotify.com/album/7sVQDE20rLpkvFx2AsyVs9', // Space Harrier II
 ];
