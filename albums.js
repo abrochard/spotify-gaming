@@ -12,6 +12,7 @@ var albums = [
   'https://open.spotify.com/album/2CaTyv2PRp5uG5SHIb2tK5', // Mass Effect
   'https://open.spotify.com/album/1AL4h5rN3vis3unZLvKVjm', // Mass Effect 2
   'https://open.spotify.com/album/7fvGyFc1ike0zd2pE7q9lr', // Mass Effect 3
+  'https://open.spotify.com/album/6fDWLEP4FQYSPqLR4inHmP', // Mass Effect Andromeda
   'https://open.spotify.com/album/2r4a3PREYIRF2QdbcPnrEO', // Bastion
   'https://open.spotify.com/album/3oVKqk9TahxvHpFIUlAEuJ', // Jet Set Radio
   'https://open.spotify.com/album/3YXJBeqOWrKCi3DIDOgJw0', // Jet Set Radio Future
@@ -50,6 +51,7 @@ var albums = [
   'https://open.spotify.com/album/2J2XOIDnJSyNko5Vc4GII5', // Prince of Persia Trilogy
   'https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv', // Far Cry 3
   'https://open.spotify.com/album/231L8hGyehsAzmrPrd785m', // Far Cry 3 Blood Dragon
+  'https://open.spotify.com/album/7Hm9OgkWKwULXKvNX6rqOO', // Trials of the Blood Dragon
   'https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99', // The Witcher
   'https://open.spotify.com/album/0dAhuTx13ciZIXgan98X7Z', // The Witcher 2
   'https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R', // The Witcher 3
@@ -89,6 +91,7 @@ var albums = [
   'https://open.spotify.com/album/358HhLekPvkg13A1dDPfhT', // Hyper Light Drifter
   'https://open.spotify.com/album/2OMhLFqYTFrAzHBwJI8bwM', // Rocketbirds
   'https://open.spotify.com/album/3Z3EhZFG2bXxKP2BF7JbAd', // Injustice: Gods Among Us
+  'https://open.spotify.com/album/1WpG1fcAqNRqmbrAv0odRJ', // Injustice 2
   'https://open.spotify.com/album/18Kir7EZdUYWwGxYHhaYmu', // Dragon Age: Origins
   'https://open.spotify.com/album/7KwqcypmfvpVejdUyZTWMX', // Dragon Age: Inquisition
   'https://open.spotify.com/album/4ElpWQqlpCvSznwxK4U35P', // Crysis
@@ -167,4 +170,34 @@ var albums = [
   'https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1', // Shinobi
   'https://open.spotify.com/album/7gupZ78GHfgZNB47AP18ir', // Kunoichi
   'https://open.spotify.com/album/7sVQDE20rLpkvFx2AsyVs9', // Space Harrier II
+  'https://open.spotify.com/album/21HaSseIeYh8dgyp17zPUr', // Syberia 2
+  'https://open.spotify.com/album/4od09wJjkv8bVHh0dLeWL5', // Syberia 3
+  'https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4', // Skyrim
+  'https://open.spotify.com/album/02S1126Q5E4gUEtpTI6W38', // WoW Legion
+  'https://open.spotify.com/album/2XQNpQhzOvPagQ8wGuUfqS', // Killer Instinct
+  'https://open.spotify.com/album/0kV3ikh8inhOOQ3KMYbisF', // Prey
+  'https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0', // Bioshock
+  'https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk', // Stardew Valley
+  'https://open.spotify.com/album/1IamuMB8i2g2vEJKNv7NFC', // The Order 1886
+  'https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn', // XCOM 2
+  'https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva', // For Honor
+  'https://open.spotify.com/album/0eiMzXp5TpjYa6cd7w4RmH', // Dishonored 2
+  'https://open.spotify.com/album/584rIXC7Nkpp2jasVs8l1e', // Valiant Hearts
+  'https://open.spotify.com/album/5Gmj7l432XQY1Nxq80cYZb', // Dear Esther
+  'https://open.spotify.com/album/2EtNNVeXxAyO1L7tp0Qn99', // Yooka-Laylee
+  'https://open.spotify.com/album/2msJRcxYx2PWANNSoF0vGr', // The Evil Within
+  'https://open.spotify.com/album/4wqPQsDjvJfVUXJG5rCfhq', // Outlast
+  'https://open.spotify.com/album/1zr5X1OVbb8XeMq68Mryae', // Outlast 2
+  'https://open.spotify.com/album/6hv9giIFmL8IPsmZBUyFic', // Warhammer 40000 DoW III
+  'https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT', // Myst
+  'https://open.spotify.com/album/4DqhCcVGKxB5OzWZdkIrGK', // Myst III
+  'https://open.spotify.com/album/2KENaCg3BvGDfy7NPNnt1j', // Myst IV
+  'https://open.spotify.com/album/6yBzSepSD88lrLHMdbe13w', // Trials Fusion
+  'https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59', // Quantum Break
+  'https://open.spotify.com/album/6pt9fvNTKMO4LKU4jxiwLz', // The Unspoken
+  'https://open.spotify.com/album/1JFLyWaB44Kr6a8IlzUupj', // Neon Drive
+  'https://open.spotify.com/album/0d7oUSnx3NGMUUqyhFiqvR', // Jotun
+  'https://open.spotify.com/album/7pFhYkDvL6PHiLvhHAa1V3', // Magicka 2
+  'https://open.spotify.com/album/6BUHF4OkE4LJ7Rr7MnKAt1', // Spate
+  'https://open.spotify.com/album/4xSD96LAzDWBY3OOX8tngM', // Splasher
 ];
