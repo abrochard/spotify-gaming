@@ -200,4 +200,5 @@ var albums = [
   'https://open.spotify.com/album/7pFhYkDvL6PHiLvhHAa1V3', // Magicka 2
   'https://open.spotify.com/album/6BUHF4OkE4LJ7Rr7MnKAt1', // Spate
   'https://open.spotify.com/album/4xSD96LAzDWBY3OOX8tngM', // Splasher
+  'https://open.spotify.com/album/1GncWYOZBK3AxPqwyQmTtB', // Payday 2
 ];
