@@ -142,49 +142,49 @@ https://open.spotify.com/album/3DNHW2ckMRr3v0f7JF3HcR // Scott Pilgrim vs. the W
 https://open.spotify.com/album/5ZAaYcFudS0BtKhWJqeMCH // Horizon Zero Dawn
 https://open.spotify.com/album/6gocyY7Z5poFOqT5ihhRq8 // Titanfall
 https://open.spotify.com/album/5TydVczo6Iu2AkY91tvJZ7 // Titanfall 2
-https://open.spotify.com/album/0E2NQD9WX7g88aWmlKMg0U' // Legend of Heroes: Sora no Kiseki
-https://open.spotify.com/album/55XE7dHvAkXzEf5rJWuxEh' // Legend of Heroes: Sora no Kiseki 2
-https://open.spotify.com/album/1vMhK0UKL1EQjZ2Lq1Mh7U' // Legend of Heroes: Sora no Kiseki 3
-https://open.spotify.com/album/5HHDIhU5YGQJZtbinwJ7PI' // Mega Man Vol. 1
-https://open.spotify.com/album/3OOQRkcyunBEAzAuPt8Zow' // Danganronpa
-https://open.spotify.com/album/5aZnHNph7U5FLfIO4ZCz3l' // Danganronpa 2
-https://open.spotify.com/album/5Rffk167A50eaLFKo4ATDf' // Danganronpa Another Episode
-https://open.spotify.com/album/7KyfdNK4c2fxctS53XXJj4' // Strafe
-https://open.spotify.com/album/4YtsY27aUZUNUYpHQad3cf' // Empire Total War
-https://open.spotify.com/album/509g4muGnEHiBarCkRUD2F' // Napoleon: Total War
-https://open.spotify.com/album/4kaq7bU5PoyYUKXOPFcqT6' // Shogun II: Total War
-https://open.spotify.com/album/7k7R6Fn0IbmmYsoGY0QGOJ' // Golden Axe
-https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1' // Shinobi
-https://open.spotify.com/album/7gupZ78GHfgZNB47AP18ir' // Kunoichi
-https://open.spotify.com/album/7sVQDE20rLpkvFx2AsyVs9' // Space Harrier II
-https://open.spotify.com/album/21HaSseIeYh8dgyp17zPUr' // Syberia 2
-https://open.spotify.com/album/4od09wJjkv8bVHh0dLeWL5' // Syberia 3
-https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4' // Skyrim
-https://open.spotify.com/album/02S1126Q5E4gUEtpTI6W38' // WoW Legion
-https://open.spotify.com/album/2XQNpQhzOvPagQ8wGuUfqS' // Killer Instinct
-https://open.spotify.com/album/0kV3ikh8inhOOQ3KMYbisF' // Prey
-https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0' // Bioshock
-https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk' // Stardew Valley
-https://open.spotify.com/album/1IamuMB8i2g2vEJKNv7NFC' // The Order 1886
-https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn' // XCOM 2
-https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva' // For Honor
-https://open.spotify.com/album/0eiMzXp5TpjYa6cd7w4RmH' // Dishonored 2
-https://open.spotify.com/album/584rIXC7Nkpp2jasVs8l1e' // Valiant Hearts
-https://open.spotify.com/album/5Gmj7l432XQY1Nxq80cYZb' // Dear Esther
-https://open.spotify.com/album/2EtNNVeXxAyO1L7tp0Qn99' // Yooka-Laylee
-https://open.spotify.com/album/2msJRcxYx2PWANNSoF0vGr' // The Evil Within
-https://open.spotify.com/album/4wqPQsDjvJfVUXJG5rCfhq' // Outlast
-https://open.spotify.com/album/1zr5X1OVbb8XeMq68Mryae' // Outlast 2
-https://open.spotify.com/album/6hv9giIFmL8IPsmZBUyFic' // Warhammer 40000 DoW III
-https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT' // Myst
-https://open.spotify.com/album/4DqhCcVGKxB5OzWZdkIrGK' // Myst III
-https://open.spotify.com/album/2KENaCg3BvGDfy7NPNnt1j' // Myst IV
-https://open.spotify.com/album/6yBzSepSD88lrLHMdbe13w' // Trials Fusion
-https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59' // Quantum Break
-https://open.spotify.com/album/6pt9fvNTKMO4LKU4jxiwLz' // The Unspoken
-https://open.spotify.com/album/1JFLyWaB44Kr6a8IlzUupj' // Neon Drive
-https://open.spotify.com/album/0d7oUSnx3NGMUUqyhFiqvR' // Jotun
-https://open.spotify.com/album/7pFhYkDvL6PHiLvhHAa1V3' // Magicka 2
-https://open.spotify.com/album/6BUHF4OkE4LJ7Rr7MnKAt1' // Spate
-https://open.spotify.com/album/4xSD96LAzDWBY3OOX8tngM' // Splasher
-https://open.spotify.com/album/1GncWYOZBK3AxPqwyQmTtB' // Payday 2
+https://open.spotify.com/album/0E2NQD9WX7g88aWmlKMg0U // Legend of Heroes: Sora no Kiseki
+https://open.spotify.com/album/55XE7dHvAkXzEf5rJWuxEh // Legend of Heroes: Sora no Kiseki 2
+https://open.spotify.com/album/1vMhK0UKL1EQjZ2Lq1Mh7U // Legend of Heroes: Sora no Kiseki 3
+https://open.spotify.com/album/5HHDIhU5YGQJZtbinwJ7PI // Mega Man Vol. 1
+https://open.spotify.com/album/3OOQRkcyunBEAzAuPt8Zow // Danganronpa
+https://open.spotify.com/album/5aZnHNph7U5FLfIO4ZCz3l // Danganronpa 2
+https://open.spotify.com/album/5Rffk167A50eaLFKo4ATDf // Danganronpa Another Episode
+https://open.spotify.com/album/7KyfdNK4c2fxctS53XXJj4 // Strafe
+https://open.spotify.com/album/4YtsY27aUZUNUYpHQad3cf // Empire Total War
+https://open.spotify.com/album/509g4muGnEHiBarCkRUD2F // Napoleon: Total War
+https://open.spotify.com/album/4kaq7bU5PoyYUKXOPFcqT6 // Shogun II: Total War
+https://open.spotify.com/album/7k7R6Fn0IbmmYsoGY0QGOJ // Golden Axe
+https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1 // Shinobi
+https://open.spotify.com/album/7gupZ78GHfgZNB47AP18ir // Kunoichi
+https://open.spotify.com/album/7sVQDE20rLpkvFx2AsyVs9 // Space Harrier II
+https://open.spotify.com/album/21HaSseIeYh8dgyp17zPUr // Syberia 2
+https://open.spotify.com/album/4od09wJjkv8bVHh0dLeWL5 // Syberia 3
+https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4 // Skyrim
+https://open.spotify.com/album/02S1126Q5E4gUEtpTI6W38 // WoW Legion
+https://open.spotify.com/album/2XQNpQhzOvPagQ8wGuUfqS // Killer Instinct
+https://open.spotify.com/album/0kV3ikh8inhOOQ3KMYbisF // Prey
+https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0 // Bioshock
+https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk // Stardew Valley
+https://open.spotify.com/album/1IamuMB8i2g2vEJKNv7NFC // The Order 1886
+https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn // XCOM 2
+https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva // For Honor
+https://open.spotify.com/album/0eiMzXp5TpjYa6cd7w4RmH // Dishonored 2
+https://open.spotify.com/album/584rIXC7Nkpp2jasVs8l1e // Valiant Hearts
+https://open.spotify.com/album/5Gmj7l432XQY1Nxq80cYZb // Dear Esther
+https://open.spotify.com/album/2EtNNVeXxAyO1L7tp0Qn99 // Yooka-Laylee
+https://open.spotify.com/album/2msJRcxYx2PWANNSoF0vGr // The Evil Within
+https://open.spotify.com/album/4wqPQsDjvJfVUXJG5rCfhq // Outlast
+https://open.spotify.com/album/1zr5X1OVbb8XeMq68Mryae // Outlast 2
+https://open.spotify.com/album/6hv9giIFmL8IPsmZBUyFic // Warhammer 40000 DoW III
+https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT // Myst
+https://open.spotify.com/album/4DqhCcVGKxB5OzWZdkIrGK // Myst III
+https://open.spotify.com/album/2KENaCg3BvGDfy7NPNnt1j // Myst IV
+https://open.spotify.com/album/6yBzSepSD88lrLHMdbe13w // Trials Fusion
+https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59 // Quantum Break
+https://open.spotify.com/album/6pt9fvNTKMO4LKU4jxiwLz // The Unspoken
+https://open.spotify.com/album/1JFLyWaB44Kr6a8IlzUupj // Neon Drive
+https://open.spotify.com/album/0d7oUSnx3NGMUUqyhFiqvR // Jotun
+https://open.spotify.com/album/7pFhYkDvL6PHiLvhHAa1V3 // Magicka 2
+https://open.spotify.com/album/6BUHF4OkE4LJ7Rr7MnKAt1 // Spate
+https://open.spotify.com/album/4xSD96LAzDWBY3OOX8tngM // Splasher
+https://open.spotify.com/album/1GncWYOZBK3AxPqwyQmTtB // Payday 2
