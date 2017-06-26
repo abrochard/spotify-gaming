@@ -36,35 +36,11 @@
                     albumList.albums = [];
                     albumList.total = albums.length;
 
-
-                    albumList.getAlbums = function(ids, callback) {
-                        $http.get('https://api.spotify.com/v1/albums?ids=' + ids.join())
-                             .then(function(response) {
-                                 callback(response.data);
-                             });
-                    };
-
-                    albumList.parseAlbums = function(albums) {
-                        var ids = albums.map(function(el) {
-                            return el.split('/').pop();
-                        });
-
-                        while (ids.length > 0) {
-                            var chunk = ids.splice(0, albumList.maxBatch);
-                            albumList.getAlbums(chunk, function(data) {
-                                albumList.raw = albumList.raw.concat(data.albums);
-                                if (albumList.raw.length == albumList.total) {
-                                    albumList.splitAlbums(albumList.raw);
-                                }
-                            });
-                        }
-                    };
-
                     albumList.splitAlbums = function (raw) {
                         var chunks = [];
 
                         raw.sort(function(a, b) {
-                            return a.name.localeCompare(b.name);
+                            return a.title.localeCompare(b.title);
                         });
 
                         while (raw.length > 0) {
@@ -74,7 +50,7 @@
                         albumList.albums = chunks;
                     };
 
-                    albumList.parseAlbums(albums);
+                    albumList.splitAlbums(albums);
                 });
         </script>
 
@@ -109,8 +85,8 @@
             <div ng-repeat="rows in albumList.albums" class="row full-width">
                 <div ng-repeat="item in rows" class="col-md-{{12/albumList.chunkSize}} no-padding">
                     <div class="album">
-                        <a target="_blank" href="{{item.external_urls.spotify}}">
-                            <img src="{{item.images[0].url}}" class="album-cover"/>
+                        <a target="_blank" href="{{item.url}}">
+                            <img src="covers/{{item.id}}.jpg" class="album-cover"/>
                         </a>
                     </div>
                 </div>
