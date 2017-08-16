@@ -21,6 +21,7 @@ https://open.spotify.com/album/7yRFTXb2wZoxI04MSK54o4 // Hotline Miami
 https://open.spotify.com/album/0Cqdcsm1RNSme7uDYfKssS // Hotline Miami
 https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp // Doom
 https://open.spotify.com/album/4aKKWSgxf7U7FN7njmi4MH // God of War III
+https://open.spotify.com/album/49W7uQcw5DwyZViDEOlnWl // Uncharted
 https://open.spotify.com/album/7AeuCduXts5efoVLam7dUk // Uncharted 2
 https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7 // Uncharted 3
 https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj // Infamous
@@ -77,6 +78,7 @@ https://open.spotify.com/album/7j9KRnJVZ860cM5qU7XuKR // Age of Empires 3
 https://open.spotify.com/album/3TvvGOz0DPEP0DJWjf6Fyl // Age of Mythology
 https://open.spotify.com/album/3g5dU6hefEYef4QAWtwimx // Lovely Planet
 https://open.spotify.com/album/7tqcyvjNAziHZYSMXzUPFu // Diablo II
+https://open.spotify.com/album/1TIMPsHk76na9Cst58abP7 // Diablo III
 https://open.spotify.com/album/4vxma8UfdSyZbNHU5wpzQc // Neon Struct
 https://open.spotify.com/album/6a8Qf1XeKiOTAdSwk3Qa16 // Flower
 https://open.spotify.com/album/4o2M5oBuy4jjJesyHlgfec // Zelda - Ocarina of Time
@@ -121,6 +123,7 @@ https://open.spotify.com/album/43ZjR5Xf8kHWuCjMhJFZW2 // DuckTales Remastered
 https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r // Child of Light
 https://open.spotify.com/album/0cjzbuzTJ25svDvGnG077x // Command & Conquer: Red Alert
 https://open.spotify.com/album/65d8zcB0uiUE5a2vjLvUNV // Command & Conquer: Red Alert 2
+https://open.spotify.com/album/4jkBDRFtxJ0lKWYcqRSrGZ // Street Fighter II
 https://open.spotify.com/album/10PtM3eb2EZ2rofbqRzHCt // Street Fighter 4
 https://open.spotify.com/album/3tRRbyO3fzaeAUYkIIhG4w // Darksiders II
 https://open.spotify.com/album/49yisjohjVCQ8kem7RP0Iq // Borderlands
@@ -188,3 +191,26 @@ https://open.spotify.com/album/7pFhYkDvL6PHiLvhHAa1V3 // Magicka 2
 https://open.spotify.com/album/6BUHF4OkE4LJ7Rr7MnKAt1 // Spate
 https://open.spotify.com/album/4xSD96LAzDWBY3OOX8tngM // Splasher
 https://open.spotify.com/album/1GncWYOZBK3AxPqwyQmTtB // Payday 2
+https://open.spotify.com/album/2rnjKoSvcoxIfwXnXynChe // Overwatch
+https://open.spotify.com/album/7EdTD0h0c0e4dHkcMfBwCP // Starcraft
+https://open.spotify.com/album/6LsrHgQINaPFwlYYU5Ybb7 // Starcraft II
+https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7 // Minecraft Volume Alpha
+https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX // Minecraft Volume Beta
+https://open.spotify.com/album/1BhxcmomhUniLCu173Rpn4 // Tower of Heaven
+https://open.spotify.com/album/2XfezFhHCWMZpsAKw94gxd // Middle Earth: Shadow of Mordor
+https://open.spotify.com/album/3lTfa6EeH29McWCrio0MHG // Metal Slug 2
+https://open.spotify.com/album/0QarLnTjXKSrJkiuncJLYT // Metal Slug 3
+https://open.spotify.com/album/53ObkDGcJh5q3z6q9ddxXt // Axiom Verge
+https://open.spotify.com/album/1jCfzTRSGbTSr8IGiBoROz // Mafia III
+https://open.spotify.com/album/0828iyOw4VHFgw6qnxdIdJ // Samorost 3
+https://open.spotify.com/album/5rv5jpjR8kn1lYXu9EGd7R // Little Big Adventure
+https://open.spotify.com/album/0mDSPMGVdWORtoEuxhyMJx // Shovel Knight
+https://open.spotify.com/album/7Kkoj4rUm2ygO8AaFOapBd // Dust: An Elysian Tail
+https://open.spotify.com/album/06i5zPGRMQaAbDWq4ITNjj // Limbo
+https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva // For Honor
+https://open.spotify.com/album/39atgCIirIYwhiuiYdgLmM // Braid
+https://open.spotify.com/album/1muCc0xAE42hkbwhnu4ALc // Black Mesa
+https://open.spotify.com/album/1plNiBcLcLXdC2wec2t2rX // Wolfenstein The New Order
+https://open.spotify.com/album/1USG3Q60ngYJvY5AgCLs0c // Skies of Arcadia Vol. 1
+https://open.spotify.com/album/74RptkfbJxKBZNhZp7t4bU // The Aquatic Adventure of the Last Human
+https://open.spotify.com/album/0dNWz4cW5yV5DSNbXT8XBZ // Steep
