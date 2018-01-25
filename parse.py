@@ -19,7 +19,7 @@ class Album():
         self.cover = ''
         self.title = ''
         self.id = parse_id(self.url)
-        self.download_info()
+        #self.download_info()
         
     def download_info(self):
         req = urllib.request.Request(
@@ -40,8 +40,9 @@ class Album():
             self.title = match[0][1]
         
     def download_cover(self):
+        self.download_info()
         urllib.request.urlretrieve(self.cover, format_destination(self.id))
-        
+
     def to_json(self):
         d = {'url':self.url, 'id': self.id, 'cover': self.cover, 'title': self.title}
         return json.dumps(d)
