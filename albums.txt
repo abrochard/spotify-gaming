@@ -72,9 +72,15 @@ https://open.spotify.com/album/697brlI2HQip1Obx1WyrFu // Far Cry 2
 https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv // Far Cry 3
 https://open.spotify.com/album/231L8hGyehsAzmrPrd785m // Far Cry 3 Blood Dragon
 https://open.spotify.com/album/2QNXFirE3DfqroVD1xzfeZ // Far Cry 4
+https://open.spotify.com/album/1SHBTtjQvdlrWt3y7rtaHn // Far Cry 5
+https://open.spotify.com/album/6WEu3cLfWfHNgfK3arQ9xw // Far Cry 5 Inside Eden's Gate
+https://open.spotify.com/album/4Gxql1kKRbHfHZnqrBGuAz // Far Cry 5 Presents: We Will Rise Again
+https://open.spotify.com/album/1W4oWF6o8X6F8bNN5AhdtH // Far Cry 5 Presents: Into the Flames
+https://open.spotify.com/album/1YjekdD6RaUpb4AsMIPViQ // Far Cry 5 Presents: When the World Falls
 https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99 // The Witcher
 https://open.spotify.com/album/0dAhuTx13ciZIXgan98X7Z // The Witcher 2
 https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R // The Witcher 3
+https://open.spotify.com/album/7bDcrHM1dTfOtbTOpLj1gq // Gwent
 https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA // Furi
 https://open.spotify.com/album/4PPrQHip0EOfO3tqgDgwZ8 // Assassin's Creed
 https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ // Assassin's Creed 2
@@ -211,6 +217,7 @@ https://open.spotify.com/album/117zTIwnkdYykkfkT16tu2 // Borderlands 2 Sir Hamme
 https://open.spotify.com/album/5fYPoVQHCw3jgigYx9kjcC // Borderlands The Pre-Sequel
 https://open.spotify.com/album/1muCc0xAE42hkbwhnu4ALc // Black Mesa
 https://open.spotify.com/album/319lEniupc0KQ5dKIFqhZV // Skullgirls
+https://open.spotify.com/album/5CbGbwmzvcwD7egc5EJ8oP // Skullgirls The Complete Soundtrack
 https://open.spotify.com/album/3WYLm38N6Ae5PdKWHL6CEz // Frozen Synapse
 https://open.spotify.com/album/1dHOm1kmbDBK0JVN6n1dYr // Grim Fandango
 https://open.spotify.com/album/0tBFIyFkwg5efxviAyDI0R // Conker: Live & Reloaded
@@ -264,6 +271,7 @@ https://open.spotify.com/album/584rIXC7Nkpp2jasVs8l1e // Valiant Hearts
 https://open.spotify.com/album/5Gmj7l432XQY1Nxq80cYZb // Dear Esther
 https://open.spotify.com/album/2EtNNVeXxAyO1L7tp0Qn99 // Yooka-Laylee
 https://open.spotify.com/album/2msJRcxYx2PWANNSoF0vGr // The Evil Within
+https://open.spotify.com/album/2pdX32FPdqDDSzvhiGCAk7 // The Evil Within 2
 https://open.spotify.com/album/4wqPQsDjvJfVUXJG5rCfhq // Outlast
 https://open.spotify.com/album/1zr5X1OVbb8XeMq68Mryae // Outlast 2
 https://open.spotify.com/album/6hv9giIFmL8IPsmZBUyFic // Warhammer 40000 DoW III
@@ -308,6 +316,7 @@ https://open.spotify.com/album/4EBXjrE44nxFluYOWKkHMZ // Banjo-Kazooie Nuts & Bo
 https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO // Celeste
 https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv // ICO
 https://open.spotify.com/album/2HrVkjNMJVNcjUSWxUzyCR // A Hat in Time
+https://open.spotify.com/album/46JpMXPZYvtGuuyI56qssd // A Hat in Time (B-Side)
 https://open.spotify.com/album/5ZJrV5uHaqQbQNdMIPhSct // Destiny
 https://open.spotify.com/album/6EuwzfvfcEA1X8fODjFhhJ // Destiny 2
 https://open.spotify.com/album/4jgXIPSDzkzKiA2xFbZTls // Destiny: Rise of Iron
@@ -345,3 +354,40 @@ https://open.spotify.com/album/4ky5Ylo3OqpIaizU83bR56 // Mega Man 9
 https://open.spotify.com/album/4bGdUzfRmXnUGmtHTsmucw // Mega Man 10
 https://open.spotify.com/album/00waL8Nk8LngAC5vVxNqyN // Splatterhouse Vol. 1
 https://open.spotify.com/album/0yJpa4Jfiksvl5rE0kaJIb // Splatterhouse Vol. 2
+https://open.spotify.com/album/6IYsd47IcQYLJbrn83oXJt // Galaxy Force II & Thunder Blade
+https://open.spotify.com/album/2c4RwrKJ1cCzlHDPdmtEvX // Eagle Flight
+https://open.spotify.com/album/1w1R7R0Scm1IsJQFeONENx // Sword Coast Legengs
+https://open.spotify.com/album/2ih8QFsxI1HUuhrq8zz0gT // Power Drift
+https://open.spotify.com/album/07umjinN5gs1WyNipJTBPN // Super Hang On
+https://open.spotify.com/album/7x9vgl7Du2V3iH9OLAU8GF // Call of Duty WWII
+https://open.spotify.com/album/3WKBvxvYHNyRWhdy5WMpbb // Nidhogg II
+https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO // Celeste
+https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM // Into the Breach
+https://open.spotify.com/album/3VnSpyPdRh0z0VNlt6rz94 // Mother Russia Bleeds
+https://open.spotify.com/album/6gWd41f4SdT5IotwplIdHV // Mother Russia Bleeds (the Lost Tapes)
+https://open.spotify.com/album/6Q55ods6yVhg1035RgH2kU // Pyre
+https://open.spotify.com/album/77EgoQoBR4KyoYoqYt079E // Heroes of the Storm
+https://open.spotify.com/album/7Avb48yav75uqEMl7heTeX // Velocity 2X
+https://open.spotify.com/album/3QBQCycojhOJLYlHhaCgVm // Pillars of Eternity
+https://open.spotify.com/album/6mtUWMqzotfQTxrkK1UD5J // Seven: The Days Long Gone
+https://open.spotify.com/album/07yJvu7qOlrlJD7a0tVYvC // Dead Rising 2
+https://open.spotify.com/album/7KZn5kyQqdQMcf43NWMKmE // Dead Rising 3
+https://open.spotify.com/album/6JpgywqvtT4NH4cBJYa8qE // Dead Rising 4
+https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1 // Machinarium
+https://open.spotify.com/album/2Z3gFGiIjlB0RRi4efm1vT // Samorost 2
+https://open.spotify.com/album/0828iyOw4VHFgw6qnxdIdJ // Samorost 3
+https://open.spotify.com/album/4wyGdjgk00vOPufJrCIsM4 // Botanicula
+https://open.spotify.com/album/3RYjS9MGrUNAwypGyHLpRw // L.A. Noire
+https://open.spotify.com/album/2rnjKoSvcoxIfwXnXynChe // Overwatch
+https://open.spotify.com/album/5WhRHudces6DKhox0n3YQC // Super Hexagon
+https://open.spotify.com/album/6I32F29dUZtcfcUomCMoLr // vvvvvvv
+https://open.spotify.com/album/2erZbQwABnyWVwQ8FK0UAb // Crash N.Sane Trilogy
+https://open.spotify.com/album/4XgGOMRY7H4hl6OQi5wb2Z // Hollow Knight
+https://open.spotify.com/album/45wvyBpfoVt3gJ3NiR4Tx1 // Anno 2070
+https://open.spotify.com/album/666rsOsL45p68o5BzooByj // VA-11 Hall-A
+https://open.spotify.com/album/3m4tfKRhqB9e4Lz5nBDxPh // VA-11 Hall-A: Prologue
+https://open.spotify.com/album/5TqkGqPOEENmf45WbwyBUP // VA-11 Hall-A Ex: Bonus
+https://open.spotify.com/album/1Jz7anFZ2f5XG1SwvIy9ma // Silent Hill: Homecoming
+https://open.spotify.com/album/5u82bm7tbUNGc4F7fUaQDO // Silent Hill: Origins
+https://open.spotify.com/album/5Y3Oq6gXNAaJLEQ9vJ61zn // Silent Hill: Book of Memories
+https://open.spotify.com/album/5WU7TNBGGPMJzVvziywC6f // Silent Hill: Shattered Memories
