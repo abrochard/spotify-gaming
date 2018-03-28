@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.App {
+    text-align: center;
+}
+
+.header {
+    padding: 7px;
+}
+
+.search-bar {
+    background: inherit;
+    width: 45%;
+}
+
+.album {
+    max-width: 250px;
+    min-width: 180px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.album:hover {
+    -webkit-filter:brightness(50%);
+    -moz-filter:brightness(50%);
+    filter: url(#brightness);
+    filter:brightness(50%);
+}
+
+.album-cover {
+    width: 100%;
+    height: 100%;
+}
+
+.full-space {
+    margin: 0;
+    padding: 0;
+    min-width: 100%;
+}
+
+.col {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
