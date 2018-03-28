@@ -3,21 +3,36 @@ https://open.spotify.com/album/70kaIuCoHOZ11adVwGQroA // Sunset Overdrive
 https://open.spotify.com/album/5LSmyO0hA8dsgk4g2KS2sX // Sonic Generations Vol. 1
 https://open.spotify.com/album/7d6hwzyHCXIE3n3y0e3r8m // Sonic Generations Vol. 2
 https://open.spotify.com/album/6Rc7rkokin2O1ewp2vBZjt // Sonic R
+https://open.spotify.com/album/7DTBJNE83j7lTZY0GDgxJp // Sonic Riders
+https://open.spotify.com/album/2nD4EwC3XVPx47qkpB4VPn // Sonic Rush
 https://open.spotify.com/album/0F64g7rDH1jsy8rm8zBl9Q // Sonic CD
 https://open.spotify.com/album/6FMvRwvHLuQs371VRrliq4 // Sonic Adventure
+https://open.spotify.com/album/59RKCKnml0DHrYz2JuKFc7 // Sonic Adventure Vol. 1
+https://open.spotify.com/album/1lAIg9MVV7pLahFN3KXI8u // Sonic Adventure Vol. 2
+https://open.spotify.com/album/65eoTk5UOmvYKO6diQCd2O // Sonic Adventure 2 Vol. 1
+https://open.spotify.com/album/6PEhhbtJzY8l5Pt77d8PtP // Sonic Adventure 2 Vol. 2
+https://open.spotify.com/album/37I2hyjWTBhQ6cWxJi9tHt // Sonic 4 Episode I
+https://open.spotify.com/album/2YXJS3Kc2zbNYUNh2hh8tA // Sonic 4 Episode II
+https://open.spotify.com/album/5iIq470vW4rrsxq5ZRBo3Y // Sonic the Hedgehog 2006 Vol. 1
+https://open.spotify.com/album/7goesuhlcZTGtewqXwz7Nl // Sonic the Hedgehog 2006 Vol. 2
+https://open.spotify.com/album/7Lc4t5I0rh7U5PjcCIZHuE // Sonic the Hedgehog 2006 Vol. 3
 https://open.spotify.com/album/1fYiLcgfvEPgQsCzP01qMU // Sonic Heroes
 https://open.spotify.com/album/3mMmasSVKlms5xBrShauPh // Sonic Mania
 https://open.spotify.com/album/2CaTyv2PRp5uG5SHIb2tK5 // Mass Effect
 https://open.spotify.com/album/1AL4h5rN3vis3unZLvKVjm // Mass Effect 2
 https://open.spotify.com/album/7fvGyFc1ike0zd2pE7q9lr // Mass Effect 3
+https://open.spotify.com/album/6fDWLEP4FQYSPqLR4inHmP // Mass Effect Andromeda
 https://open.spotify.com/album/2r4a3PREYIRF2QdbcPnrEO // Bastion
 https://open.spotify.com/album/3oVKqk9TahxvHpFIUlAEuJ // Jet Set Radio
 https://open.spotify.com/album/3YXJBeqOWrKCi3DIDOgJw0 // Jet Set Radio Future
 https://open.spotify.com/album/0knSmwGyDZvvzg37rhzIpy // Alex Kidd Vol. 1
+https://open.spotify.com/album/2yxcw7ESaWHp02nXWQgRb6 // Alex Kidd Vol. 2
 https://open.spotify.com/album/38PUHL4Ab0rky3W6Lnmp4r // Out Run Vol. 1
 https://open.spotify.com/album/0ndOKj9ShVUgDc2UiR8b2M // Journey
 https://open.spotify.com/album/63CH3LUNguGmuTG4jKpXAC // Deus Ex: Human Revolution
+https://open.spotify.com/album/25GRjj22i6F8vkPE4KXAmE // Deus Ex: Mankind Divided
 https://open.spotify.com/album/7us4WRnwvqCE3cppHVNjIu // FTL
+https://open.spotify.com/album/0l2pzNg3tM9WuCWglqhzMo // FTL: Advanced Edition
 https://open.spotify.com/album/6QtCv5E76lUVbXfUFZxLuH // Fez
 https://open.spotify.com/album/5Q7I07l5PkrO5nDwepUdNE // Chrono Trigger
 https://open.spotify.com/album/4ynYSjDmlRH6tc7hNWuv7J // Hotline Miami
@@ -25,12 +40,15 @@ https://open.spotify.com/album/7yRFTXb2wZoxI04MSK54o4 // Hotline Miami
 https://open.spotify.com/album/0Cqdcsm1RNSme7uDYfKssS // Hotline Miami
 https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp // Doom
 https://open.spotify.com/album/4aKKWSgxf7U7FN7njmi4MH // God of War III
+https://open.spotify.com/album/3wbM7KuLcVMwsIYg2jzv1w // God of War: Ascension
 https://open.spotify.com/album/49W7uQcw5DwyZViDEOlnWl // Uncharted
 https://open.spotify.com/album/7AeuCduXts5efoVLam7dUk // Uncharted 2
 https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7 // Uncharted 3
 https://open.spotify.com/album/2jPRHN04Gcaj6GBnW1jOUW // Uncharted 4
 https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj // Infamous
 https://open.spotify.com/album/6b0o0e7p8XQctNZLZHL8VK // Infamous 2
+https://open.spotify.com/album/2F6XiSDES8mbjRsMb2xiye // inFAMOUS: Second Son
+https://open.spotify.com/album/6aJH32kUIY2iiEgph5yUM7 // inFAMOUS: First Light
 https://open.spotify.com/album/46XBodEMc5dbor2odnjJUq // Crypt of the Necrodancer
 https://open.spotify.com/album/3B0PgLmgaW0gJth55ApWbw // Transistor
 https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO // Rocket League
@@ -42,23 +60,37 @@ https://open.spotify.com/album/28LnQrJf1iPp3p7bRBt782 // Metroid Anthology
 https://open.spotify.com/album/1pdM9htaPsGmk7rkpVNEDH // Batman Arkham Asylum
 https://open.spotify.com/album/6skLYY2WEVjQ6tvbkSlmTG // Batman Arkham City
 https://open.spotify.com/album/7uIV4R3B5L9ZoJ7WM0t67G // Batman Arkham Origins
+https://open.spotify.com/album/5be3r4YaUXjyOC7kvYT33G // Batman Arkham Knight Vol. 1
+https://open.spotify.com/album/4UKOvY7J0I6bVGp2nW4Fa3 // Batman Arkham Knight Vol. 2
 https://open.spotify.com/album/1SI5srPA0dOzJbRdjz34W6 // Castlevania Curse of Darkness
 https://open.spotify.com/album/6vHk8R4jcOe0WZnTDDFgXV // Devil May Cry
 https://open.spotify.com/album/1RX5xk76MORiIGaz7HhQUp // Devil May Cry 2
 https://open.spotify.com/album/0dH0HxdxaVim5YiQ8k6nDm // Devil May Cry 4
 https://open.spotify.com/album/1FKr0dY4TzPeJ0m3V5u76k // DmC
 https://open.spotify.com/album/2J2XOIDnJSyNko5Vc4GII5 // Prince of Persia Trilogy
+https://open.spotify.com/album/697brlI2HQip1Obx1WyrFu // Far Cry 2
 https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv // Far Cry 3
 https://open.spotify.com/album/231L8hGyehsAzmrPrd785m // Far Cry 3 Blood Dragon
+https://open.spotify.com/album/2QNXFirE3DfqroVD1xzfeZ // Far Cry 4
 https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99 // The Witcher
 https://open.spotify.com/album/0dAhuTx13ciZIXgan98X7Z // The Witcher 2
 https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R // The Witcher 3
 https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA // Furi
+https://open.spotify.com/album/4PPrQHip0EOfO3tqgDgwZ8 // Assassin's Creed
 https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ // Assassin's Creed 2
 https://open.spotify.com/album/1qvTY6mcUNAzP9BCABiMIe // Assassin's Creed Brotherhood
 https://open.spotify.com/album/4YQsbhCYkpmueqKC4aEn7f // Assassin's Creed Revelations
 https://open.spotify.com/album/23aWOneOrCl1KBfDCo2pFy // Assassin's Creed 3
+https://open.spotify.com/album/3esZJf7epGdNdylgzuizOL // Assassin's Creed 3: The Tyranny of King Washington
+https://open.spotify.com/album/5g5wn7B5Gy2OHm5VhDmqwq // Assassin's Creed 3: Liberation
 https://open.spotify.com/album/7G0O4t6PMa6bcOLc3KgztU // Assassin's Creed 4
+https://open.spotify.com/album/49f52RAXb9IiVxJFUKvBSd // Assassin's Creed 4: Freedom Cry
+https://open.spotify.com/album/7GXcRYmAw1fTgSa2Pdscwh // Assassin's Creed Unity
+https://open.spotify.com/album/63OsaUP1gVTWTp3N45L1Pt // Assassin's Creed Unity Dead Kings
+https://open.spotify.com/album/576UCWC3doVjUcEZFuWMOS // Assassin's Creed Rogue
+https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf // Assassin's Creed Syndicate
+https://open.spotify.com/album/1V88G85lyMq4bQ3ohYfmeM // Assassin's Creed Syndicate: Jack the Ripper
+https://open.spotify.com/album/1tGG9ggFTIX8LZt8lH9hqF // Assassin's Creed Origins
 https://open.spotify.com/album/48OeUXPCWaqsFNtKr6tqvq // Rayman Origins
 https://open.spotify.com/album/1XdgIQg5BoYpPkLTEB1uHp // Rayman Legends
 https://open.spotify.com/album/2qNJNe5NdM4SnAqfEtTkiX // Grow Home
@@ -72,6 +104,9 @@ https://open.spotify.com/album/5cyrfafppjyPgmUr4rbZFq // Broken Age
 https://open.spotify.com/album/2F32Xg7gK6iGyqU17Ifijm // Psychonauts
 https://open.spotify.com/album/63JTzw7vuxUhhLXYIyRmNN // Risk of Rain
 https://open.spotify.com/album/1cVsczQdIhX9Tf2dOMjjvc // The Binding of Isaac
+https://open.spotify.com/album/3eXltMcjg93gl5bNw13Sd7 // The Binding of Isaac: Afterbirth
+https://open.spotify.com/album/4kpz0LIs7KqKyN8n6jqUQs // The Binding of Isaac: Afterbirth+
+https://open.spotify.com/album/6xmFMdtFR9InDhMZFiCwCZ // The Binding of Isaac: Rebirth
 https://open.spotify.com/album/4FZ63qgkr6jLWPKi58Sg0l // Rogue Legacy
 https://open.spotify.com/album/6rqgb726zE5CQOcwi30MMQ // Remember Me
 https://open.spotify.com/album/3UVyUHogFcjirdS5AsmXzG // Max Payne 3
@@ -92,31 +127,48 @@ https://open.spotify.com/album/3TvvGOz0DPEP0DJWjf6Fyl // Age of Mythology
 https://open.spotify.com/album/3g5dU6hefEYef4QAWtwimx // Lovely Planet
 https://open.spotify.com/album/7tqcyvjNAziHZYSMXzUPFu // Diablo II
 https://open.spotify.com/album/1TIMPsHk76na9Cst58abP7 // Diablo III
+https://open.spotify.com/album/0NsSIxEDXugMRsN8l4d1sA // Diabloe III: Reaper of Souls
 https://open.spotify.com/album/4vxma8UfdSyZbNHU5wpzQc // Neon Struct
 https://open.spotify.com/album/6a8Qf1XeKiOTAdSwk3Qa16 // Flower
 https://open.spotify.com/album/4o2M5oBuy4jjJesyHlgfec // Zelda - Ocarina of Time
 https://open.spotify.com/album/358HhLekPvkg13A1dDPfhT // Hyper Light Drifter
 https://open.spotify.com/album/2OMhLFqYTFrAzHBwJI8bwM // Rocketbirds
 https://open.spotify.com/album/3Z3EhZFG2bXxKP2BF7JbAd // Injustice: Gods Among Us
+https://open.spotify.com/album/1WpG1fcAqNRqmbrAv0odRJ // Injustice 2
 https://open.spotify.com/album/18Kir7EZdUYWwGxYHhaYmu // Dragon Age: Origins
+https://open.spotify.com/album/4zdqbYPSCx45MSyA6ApLYz // Dragon Age II
+https://open.spotify.com/album/4sXjJQuN2jMFlmACRFdk3g // Dragon Age II: The Darker Side
+https://open.spotify.com/album/0VbfCyZPEmxTh6lyg5DZfn // Dragon Age II: Epic Times
 https://open.spotify.com/album/7KwqcypmfvpVejdUyZTWMX // Dragon Age: Inquisition
 https://open.spotify.com/album/4ElpWQqlpCvSznwxK4U35P // Crysis
 https://open.spotify.com/album/6uNxILubrUvcyTqG6VuSdk // Crysis 2
 https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh // The Last of Us
 https://open.spotify.com/album/5zhAb5BiVj4cXCXW760wd4 // Civ Beyond Earth
 https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj // Halo
+https://open.spotify.com/album/7iiDBLPF600GryzR3AX6rc // Halo Combat Evolved
 https://open.spotify.com/album/7LAtVqVh3ojtwDNSuEdNn2 // Halo 2 Vol. 1
 https://open.spotify.com/album/2Ll3uGUqd05Uo0fNrQSh4m // Halo 2 Vol. 2
 https://open.spotify.com/album/24umXlor1zlXU0H0xBakqD // Halo 3
+https://open.spotify.com/album/2tneg9YykkpZyP1vKSC2P8 // Halo 3 ODST
+https://open.spotify.com/album/5wCiK9MXLfbr3RpFxa3gPe // Halo 4
 https://open.spotify.com/album/1k8JDdearbBEc2DJ48CRvg // Halo 5
+https://open.spotify.com/album/61VwOQhDZhkpO11D36CnEL // Halo Reach
+https://open.spotify.com/album/3ktQDfBlYkq7O5qwueCeyC // Halo Wars
+https://open.spotify.com/album/0Wy5NJsAlSlUtBVF6y9tXq // Halo Wars 2
+https://open.spotify.com/album/6CkmtAAnJml2fUCBOC8qk9 // Halo Wars 2: Awakening the Nightmare
 https://open.spotify.com/album/7rGidzYxexJJ0OKin1RRHx // Fallout 4
 https://open.spotify.com/album/3gWn1tTKgNqlsKG3Pf4RSv // Splinter Cell Blacklist
 https://open.spotify.com/album/5QwO3vHUx9DvFPywMXV8nG // Splinter Cell Conviction
 https://open.spotify.com/album/4lRMKDrp5k52VVGCio32Op // Gears of War
 https://open.spotify.com/album/0dKKlEzO9gwWhD7ag3TUPA // Gears of War 2
 https://open.spotify.com/album/5nECmJ9tA2ShMysaJDv8zb // Gears of War 3
+https://open.spotify.com/album/1nEc1eWTWx8MYFlFHX3Rpe // Gears of War: Judgement
 https://open.spotify.com/album/4GdoCUNWgsCrN2PJIOn37B // Gears of War 4
-https://open.spotify.com/album/4hSZhhZRwFIAqHEWH6oHL5 // Bayonetta
+https://open.spotify.com/album/4hSZhhZRwFIAqHEWH6oHL5 // Bayonetta Vol. 1
+https://open.spotify.com/album/1JD3LowquSXm0Xwn5NPK4m // Bayonetta Vol. 2
+https://open.spotify.com/album/0eOV0zmDrZCgjLk4CE13Cj // Bayonetta Vol. 3
+https://open.spotify.com/album/6DiX82bkozkRdRnWZUIqep // Bayonetta Vol. 4
+https://open.spotify.com/album/5wsMaD5GwKydj5fX2SBTOR // Bayonetta Vol. 5
 https://open.spotify.com/album/163rlW0yY6SUBETXD1tXFs // Abzu
 https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44 // The Banner Saga
 https://open.spotify.com/album/24LEhJ8W7c0XQe9rorDuLf // The Banner Saga 2
@@ -127,6 +179,7 @@ https://open.spotify.com/album/1907F3tAFEAdpsQIgAYNzJ // Serious Sam 3
 https://open.spotify.com/album/1D622TWd7hvxVZicNjVLjl // WatchDogs
 https://open.spotify.com/album/5hrEhqDc6sDLMstOBo8jWx // Fable
 https://open.spotify.com/album/4sqsrMqFFAGaKuWWdwoekJ // Fable II
+https://open.spotify.com/album/5eg2wIDanI6C74BkxtMs02 // Fable III
 https://open.spotify.com/album/1s5GqO8enWc2EmJHhpUWn1 // Resident Evil 5
 https://open.spotify.com/album/7zINFDX9Xfrfwv8SU4iuIX // Resident Evil 6
 https://open.spotify.com/album/45H9DLevekKB41uW23dSBf // Resident Evil 7
@@ -134,13 +187,28 @@ https://open.spotify.com/album/031LVeJpGTNHThqRXIHXo9 // Seum
 https://open.spotify.com/album/4Iwgv9T2tYLu8gd9P6CNBE // Styx: Shards of Darkness
 https://open.spotify.com/album/43ZjR5Xf8kHWuCjMhJFZW2 // DuckTales Remastered
 https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r // Child of Light
+https://open.spotify.com/album/44zZih5pLiWi3Vdav6t7dH // Command & Conquer
+https://open.spotify.com/album/3Lqm3AzucB4PeMiQtsAYSs // Command & Conquer: Tiberian Sun
 https://open.spotify.com/album/0cjzbuzTJ25svDvGnG077x // Command & Conquer: Red Alert
 https://open.spotify.com/album/65d8zcB0uiUE5a2vjLvUNV // Command & Conquer: Red Alert 2
+https://open.spotify.com/album/0HQm35A0LcSiWlyNnU2GEH // Command & Conquer: Renegade
+https://open.spotify.com/album/1mPUVQcZkpPoZ6BaICLX1b // Command & Conquer: Generals
+https://open.spotify.com/album/6owDDJaj0PZrbseHyZXvv9 // Command & Conquer: Generals: Zero Hour
+https://open.spotify.com/album/5gictixyQqxMtZh6HFz9Nf // Command & Conquer 3: Tiberium Wars
+https://open.spotify.com/album/4kbqvLF4mRY0XAbX1NUzsq // Command & Conquer: Red Alert 3
+https://open.spotify.com/album/79VSQh5zw5xh8QNiLUmCwD // Command & Conquer 4: Tiberian Twilight
 https://open.spotify.com/album/4jkBDRFtxJ0lKWYcqRSrGZ // Street Fighter II
 https://open.spotify.com/album/10PtM3eb2EZ2rofbqRzHCt // Street Fighter 4
+https://open.spotify.com/album/7oy6jZMgvqGBKSo2EcoeMT // Darksiders
 https://open.spotify.com/album/3tRRbyO3fzaeAUYkIIhG4w // Darksiders II
 https://open.spotify.com/album/49yisjohjVCQ8kem7RP0Iq // Borderlands
-https://open.spotify.com/album/337mzRS3hivhPRXorHhCB9 // Borderlands 2
+https://open.spotify.com/album/337mzRS3hivhPRXorHhCB9 // Borderlands 2 Vol. 1
+https://open.spotify.com/album/3CKPyQXCuNA51Zb7OtCktb // Borderlands 2 Vol. 2
+https://open.spotify.com/album/3AObJcPDE4mPFLbjEtXrxd // Borderlands 2 Tina's Assault on Dragon Keep
+https://open.spotify.com/album/7CJ5Kk0bW08RdQowaelLpY // Borderlands 2 Captain Scarlett and her Pirate's Booty
+https://open.spotify.com/album/3FmrxKBjQhXZcYo2wZIdSZ // Borderlands 2 Mister Torgue's Campaign of Carnage
+https://open.spotify.com/album/117zTIwnkdYykkfkT16tu2 // Borderlands 2 Sir Hammerlock's Big Game Hunt
+https://open.spotify.com/album/5fYPoVQHCw3jgigYx9kjcC // Borderlands The Pre-Sequel
 https://open.spotify.com/album/1muCc0xAE42hkbwhnu4ALc // Black Mesa
 https://open.spotify.com/album/319lEniupc0KQ5dKIFqhZV // Skullgirls
 https://open.spotify.com/album/3WYLm38N6Ae5PdKWHL6CEz // Frozen Synapse
@@ -165,6 +233,8 @@ https://open.spotify.com/album/5HHDIhU5YGQJZtbinwJ7PI // Mega Man Vol. 1
 https://open.spotify.com/album/3OOQRkcyunBEAzAuPt8Zow // Danganronpa
 https://open.spotify.com/album/5aZnHNph7U5FLfIO4ZCz3l // Danganronpa 2
 https://open.spotify.com/album/5Rffk167A50eaLFKo4ATDf // Danganronpa Another Episode
+https://open.spotify.com/album/5lxHz3HgqYcpXbO7vn2987 // Danganronpa V3 OST Black
+https://open.spotify.com/album/1n74b3FUpRhNHVBrCSK4xL // Danganronpa V3 OST White
 https://open.spotify.com/album/7KyfdNK4c2fxctS53XXJj4 // Strafe
 https://open.spotify.com/album/4YtsY27aUZUNUYpHQad3cf // Empire Total War
 https://open.spotify.com/album/509g4muGnEHiBarCkRUD2F // Napoleon: Total War
@@ -177,14 +247,19 @@ https://open.spotify.com/album/21HaSseIeYh8dgyp17zPUr // Syberia 2
 https://open.spotify.com/album/4od09wJjkv8bVHh0dLeWL5 // Syberia 3
 https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4 // Skyrim
 https://open.spotify.com/album/02S1126Q5E4gUEtpTI6W38 // WoW Legion
-https://open.spotify.com/album/2XQNpQhzOvPagQ8wGuUfqS // Killer Instinct
+https://open.spotify.com/album/1b51EuX7pwMLApLNB4P4gX // Killer Instinct Season 1
+https://open.spotify.com/album/2XQNpQhzOvPagQ8wGuUfqS // Killer Instinct Season 2
+https://open.spotify.com/album/3Fw5BGA4GBLtxFWU8BJnCG // Killer Instinct Season 3
 https://open.spotify.com/album/0kV3ikh8inhOOQ3KMYbisF // Prey
 https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0 // Bioshock
+https://open.spotify.com/album/7ieCqwEN1ZKeKATTSqPrgu // Bioshock 2
 https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk // Stardew Valley
 https://open.spotify.com/album/1IamuMB8i2g2vEJKNv7NFC // The Order 1886
 https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn // XCOM 2
+https://open.spotify.com/album/0LmDZLcFB4RgidtJ54xBgF // XCOM 2: War of the Chosen
 https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva // For Honor
 https://open.spotify.com/album/0eiMzXp5TpjYa6cd7w4RmH // Dishonored 2
+https://open.spotify.com/album/2kF293o8j9Mk4YqOBQkBD1 // Dishonored: Death of the Outsider
 https://open.spotify.com/album/584rIXC7Nkpp2jasVs8l1e // Valiant Hearts
 https://open.spotify.com/album/5Gmj7l432XQY1Nxq80cYZb // Dear Esther
 https://open.spotify.com/album/2EtNNVeXxAyO1L7tp0Qn99 // Yooka-Laylee
@@ -200,6 +275,7 @@ https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59 // Quantum Break
 https://open.spotify.com/album/6pt9fvNTKMO4LKU4jxiwLz // The Unspoken
 https://open.spotify.com/album/1JFLyWaB44Kr6a8IlzUupj // Neon Drive
 https://open.spotify.com/album/0d7oUSnx3NGMUUqyhFiqvR // Jotun
+https://open.spotify.com/album/3PUH2jGDwxr2HtdcU8Iibk // Magicka
 https://open.spotify.com/album/7pFhYkDvL6PHiLvhHAa1V3 // Magicka 2
 https://open.spotify.com/album/6BUHF4OkE4LJ7Rr7MnKAt1 // Spate
 https://open.spotify.com/album/4xSD96LAzDWBY3OOX8tngM // Splasher
@@ -211,6 +287,7 @@ https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7 // Minecraft Volume Alpha
 https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX // Minecraft Volume Beta
 https://open.spotify.com/album/1BhxcmomhUniLCu173Rpn4 // Tower of Heaven
 https://open.spotify.com/album/2XfezFhHCWMZpsAKw94gxd // Middle Earth: Shadow of Mordor
+https://open.spotify.com/album/0B8X6QTcnAuB0i6fUC2Uqg // Metal Slug
 https://open.spotify.com/album/3lTfa6EeH29McWCrio0MHG // Metal Slug 2
 https://open.spotify.com/album/0QarLnTjXKSrJkiuncJLYT // Metal Slug 3
 https://open.spotify.com/album/53ObkDGcJh5q3z6q9ddxXt // Axiom Verge
@@ -232,6 +309,9 @@ https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO // Celeste
 https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv // ICO
 https://open.spotify.com/album/2HrVkjNMJVNcjUSWxUzyCR // A Hat in Time
 https://open.spotify.com/album/5ZJrV5uHaqQbQNdMIPhSct // Destiny
+https://open.spotify.com/album/6EuwzfvfcEA1X8fODjFhhJ // Destiny 2
+https://open.spotify.com/album/4jgXIPSDzkzKiA2xFbZTls // Destiny: Rise of Iron
+https://open.spotify.com/album/3tTZQMWFhpj2tLEgFICy0c // Destiny: The Taken King
 https://open.spotify.com/album/0NY4XVz9uX7a1q6sPgdI4j // The Last Guardian
 https://open.spotify.com/album/2viinzlDkAeC3KprABzu4M // LocoRoco
 https://open.spotify.com/album/0OKyZzH4nCkGIcVZoLwIcU // Mario + Rabbids Kingdom Battle
@@ -252,3 +332,16 @@ https://open.spotify.com/album/5igTFdgbS1jxBpBufbcQA6 // Undertale
 https://open.spotify.com/album/1URAPPYkkYGElm3JVwgRfs // The Vanishing of Ethan Carter
 https://open.spotify.com/album/0dI3DcRX27ovAqUgSkyxlJ // What Remains of Edith Finch
 https://open.spotify.com/album/22jEkrUnflpu6FZ2bz46VG // Ys I&II
+https://open.spotify.com/album/1vSsaSoTe3r4VF9FEr2ho7 // Ninja Warriors
+https://open.spotify.com/album/5HHDIhU5YGQJZtbinwJ7PI // Mega Man
+https://open.spotify.com/album/4nSPAKVZXEzS2O006kMWjn // Mega Man II
+https://open.spotify.com/album/3od7I1nxPZApQYdZTXvptU // Mega Man III
+https://open.spotify.com/album/6lZFeNjqctjyeIPhBYN92p // Mega Man IV
+https://open.spotify.com/album/2XIjhNx4I9L2m20zKvoJkD // Mega Man V
+https://open.spotify.com/album/2Cr0iaS3Py4eJU45vPhVyg // Mega Man VI
+https://open.spotify.com/album/2lALyjc21c7vAfKKrP01hn // Mega Man 7
+https://open.spotify.com/album/5Wc73Z0cANwfuGSpoD57pG // Mega Man 8
+https://open.spotify.com/album/4ky5Ylo3OqpIaizU83bR56 // Mega Man 9
+https://open.spotify.com/album/4bGdUzfRmXnUGmtHTsmucw // Mega Man 10
+https://open.spotify.com/album/00waL8Nk8LngAC5vVxNqyN // Splatterhouse Vol. 1
+https://open.spotify.com/album/0yJpa4Jfiksvl5rE0kaJIb // Splatterhouse Vol. 2
