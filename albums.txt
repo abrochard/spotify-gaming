@@ -3,6 +3,10 @@ https://open.spotify.com/album/70kaIuCoHOZ11adVwGQroA // Sunset Overdrive
 https://open.spotify.com/album/5LSmyO0hA8dsgk4g2KS2sX // Sonic Generations Vol. 1
 https://open.spotify.com/album/7d6hwzyHCXIE3n3y0e3r8m // Sonic Generations Vol. 2
 https://open.spotify.com/album/6Rc7rkokin2O1ewp2vBZjt // Sonic R
+https://open.spotify.com/album/0F64g7rDH1jsy8rm8zBl9Q // Sonic CD
+https://open.spotify.com/album/6FMvRwvHLuQs371VRrliq4 // Sonic Adventure
+https://open.spotify.com/album/1fYiLcgfvEPgQsCzP01qMU // Sonic Heroes
+https://open.spotify.com/album/3mMmasSVKlms5xBrShauPh // Sonic Mania
 https://open.spotify.com/album/2CaTyv2PRp5uG5SHIb2tK5 // Mass Effect
 https://open.spotify.com/album/1AL4h5rN3vis3unZLvKVjm // Mass Effect 2
 https://open.spotify.com/album/7fvGyFc1ike0zd2pE7q9lr // Mass Effect 3
@@ -24,6 +28,7 @@ https://open.spotify.com/album/4aKKWSgxf7U7FN7njmi4MH // God of War III
 https://open.spotify.com/album/49W7uQcw5DwyZViDEOlnWl // Uncharted
 https://open.spotify.com/album/7AeuCduXts5efoVLam7dUk // Uncharted 2
 https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7 // Uncharted 3
+https://open.spotify.com/album/2jPRHN04Gcaj6GBnW1jOUW // Uncharted 4
 https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj // Infamous
 https://open.spotify.com/album/6b0o0e7p8XQctNZLZHL8VK // Infamous 2
 https://open.spotify.com/album/46XBodEMc5dbor2odnjJUq // Crypt of the Necrodancer
@@ -59,6 +64,7 @@ https://open.spotify.com/album/1XdgIQg5BoYpPkLTEB1uHp // Rayman Legends
 https://open.spotify.com/album/2qNJNe5NdM4SnAqfEtTkiX // Grow Home
 https://open.spotify.com/album/4PvakqSTVKDmAj0v0UEuC1 // Monument Valley
 https://open.spotify.com/album/2NVNyVmPZ9V5vqo8P1umhc // Monument Valley Forgotten Shores
+https://open.spotify.com/album/64qeTVvE0NE7FDgc1liDzA // Monument Valley 2
 https://open.spotify.com/album/673cuQ8hG3FYLbF1HxHJuc // Worms 2
 https://open.spotify.com/album/5Jyf9nzGcltNocdWYbh0Q1 // Dante's Inferno
 https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg // Red Dead Redemption
@@ -221,3 +227,28 @@ https://open.spotify.com/album/1USG3Q60ngYJvY5AgCLs0c // Skies of Arcadia Vol. 1
 https://open.spotify.com/album/74RptkfbJxKBZNhZp7t4bU // The Aquatic Adventure of the Last Human
 https://open.spotify.com/album/0dNWz4cW5yV5DSNbXT8XBZ // Steep
 https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu // Cuphead
+https://open.spotify.com/album/4EBXjrE44nxFluYOWKkHMZ // Banjo-Kazooie Nuts & Bolts
+https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO // Celeste
+https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv // ICO
+https://open.spotify.com/album/2HrVkjNMJVNcjUSWxUzyCR // A Hat in Time
+https://open.spotify.com/album/5ZJrV5uHaqQbQNdMIPhSct // Destiny
+https://open.spotify.com/album/0NY4XVz9uX7a1q6sPgdI4j // The Last Guardian
+https://open.spotify.com/album/2viinzlDkAeC3KprABzu4M // LocoRoco
+https://open.spotify.com/album/0OKyZzH4nCkGIcVZoLwIcU // Mario + Rabbids Kingdom Battle
+https://open.spotify.com/album/7hrYJhZq9ySiEbBpezjmj4 // Medal Of Honor
+https://open.spotify.com/album/6erJz42GIYamzW3QVRzA9N // Monster Hunter 3
+https://open.spotify.com/album/35zi7Bek6cNttCOwK7aW0V // NiGHTS into dreams
+https://open.spotify.com/album/5nvkeEgntNSvMJn5V1Mgkp // No Man's Sky
+https://open.spotify.com/album/46JHOigoGnfNu9VNdVzNFT // Octodad
+https://open.spotify.com/album/2rnjKoSvcoxIfwXnXynChe // Overwatch
+https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr // Portal 2
+https://open.spotify.com/album/6Q55ods6yVhg1035RgH2kU // Pyre
+https://open.spotify.com/album/1USG3Q60ngYJvY5AgCLs0c // Skies of Arcadia Vol. 1
+https://open.spotify.com/album/1AL3bVAeWPKUkajmPZ4vhk // Skies of Arcadia Vol. 2
+https://open.spotify.com/album/4Fe6CAz7u9Ksx20pKKoOW0 // The Sims 3
+https://open.spotify.com/album/7Bv9cf8hkZgs0oJ69j0Pyz // SteamWorld Heist
+https://open.spotify.com/album/3h39tpOlJpuEWsLh4sb5Hx // Tomb Raider
+https://open.spotify.com/album/5igTFdgbS1jxBpBufbcQA6 // Undertale
+https://open.spotify.com/album/1URAPPYkkYGElm3JVwgRfs // The Vanishing of Ethan Carter
+https://open.spotify.com/album/0dI3DcRX27ovAqUgSkyxlJ // What Remains of Edith Finch
+https://open.spotify.com/album/22jEkrUnflpu6FZ2bz46VG // Ys I&II
