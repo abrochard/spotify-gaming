@@ -236,7 +236,6 @@ https://open.spotify.com/album/5TydVczo6Iu2AkY91tvJZ7 // Titanfall 2
 https://open.spotify.com/album/0E2NQD9WX7g88aWmlKMg0U // Legend of Heroes: Sora no Kiseki
 https://open.spotify.com/album/55XE7dHvAkXzEf5rJWuxEh // Legend of Heroes: Sora no Kiseki 2
 https://open.spotify.com/album/1vMhK0UKL1EQjZ2Lq1Mh7U // Legend of Heroes: Sora no Kiseki 3
-https://open.spotify.com/album/5HHDIhU5YGQJZtbinwJ7PI // Mega Man Vol. 1
 https://open.spotify.com/album/3OOQRkcyunBEAzAuPt8Zow // Danganronpa
 https://open.spotify.com/album/5aZnHNph7U5FLfIO4ZCz3l // Danganronpa 2
 https://open.spotify.com/album/5Rffk167A50eaLFKo4ATDf // Danganronpa Another Episode
@@ -365,7 +364,6 @@ https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO // Celeste
 https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM // Into the Breach
 https://open.spotify.com/album/3VnSpyPdRh0z0VNlt6rz94 // Mother Russia Bleeds
 https://open.spotify.com/album/6gWd41f4SdT5IotwplIdHV // Mother Russia Bleeds (the Lost Tapes)
-https://open.spotify.com/album/6Q55ods6yVhg1035RgH2kU // Pyre
 https://open.spotify.com/album/77EgoQoBR4KyoYoqYt079E // Heroes of the Storm
 https://open.spotify.com/album/7Avb48yav75uqEMl7heTeX // Velocity 2X
 https://open.spotify.com/album/3QBQCycojhOJLYlHhaCgVm // Pillars of Eternity
