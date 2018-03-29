@@ -307,7 +307,6 @@ https://open.spotify.com/album/06i5zPGRMQaAbDWq4ITNjj // Limbo
 https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva // For Honor
 https://open.spotify.com/album/39atgCIirIYwhiuiYdgLmM // Braid
 https://open.spotify.com/album/1plNiBcLcLXdC2wec2t2rX // Wolfenstein The New Order
-https://open.spotify.com/album/1USG3Q60ngYJvY5AgCLs0c // Skies of Arcadia Vol. 1
 https://open.spotify.com/album/74RptkfbJxKBZNhZp7t4bU // The Aquatic Adventure of the Last Human
 https://open.spotify.com/album/0dNWz4cW5yV5DSNbXT8XBZ // Steep
 https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu // Cuphead
@@ -389,3 +388,4 @@ https://open.spotify.com/album/1Jz7anFZ2f5XG1SwvIy9ma // Silent Hill: Homecoming
 https://open.spotify.com/album/5u82bm7tbUNGc4F7fUaQDO // Silent Hill: Origins
 https://open.spotify.com/album/5Y3Oq6gXNAaJLEQ9vJ61zn // Silent Hill: Book of Memories
 https://open.spotify.com/album/5WU7TNBGGPMJzVvziywC6f // Silent Hill: Shattered Memories
+https://open.spotify.com/album/4oYvbuaF1cHwurvOwQ0FKt // Cities Skyline
