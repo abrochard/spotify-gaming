@@ -10,7 +10,7 @@ var x = Math.floor(Math.random()*AlbumsJSON.length);
 var randAlbum = {
   id: '',
   title: 'Random',
-  cover: 'data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=',
+  cover: 'random.jpg',
   url: AlbumsJSON[x].url
 };
 
