@@ -1,5 +1,8 @@
 build: node_modules
-	python3 parse.py && node node_modules/webpack/bin/webpack.js
+	node node_modules/webpack/bin/webpack.js --config prod.config.js
 
 node_modules:
 	npm install
+
+generate:
+	python3 parse.py
