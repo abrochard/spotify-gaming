@@ -45,6 +45,7 @@ https://open.spotify.com/album/49W7uQcw5DwyZViDEOlnWl // Uncharted
 https://open.spotify.com/album/7AeuCduXts5efoVLam7dUk // Uncharted 2
 https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7 // Uncharted 3
 https://open.spotify.com/album/2jPRHN04Gcaj6GBnW1jOUW // Uncharted 4
+https://open.spotify.com/album/0ETdwiHVC5WYOZYgeU5YzZ // Uncharted Lost Legacy
 https://open.spotify.com/album/1M07WV7nZNoqMAturqewUj // Infamous
 https://open.spotify.com/album/6b0o0e7p8XQctNZLZHL8VK // Infamous 2
 https://open.spotify.com/album/2F6XiSDES8mbjRsMb2xiye // inFAMOUS: Second Son
@@ -97,6 +98,7 @@ https://open.spotify.com/album/576UCWC3doVjUcEZFuWMOS // Assassin's Creed Rogue
 https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf // Assassin's Creed Syndicate
 https://open.spotify.com/album/1V88G85lyMq4bQ3ohYfmeM // Assassin's Creed Syndicate: Jack the Ripper
 https://open.spotify.com/album/1tGG9ggFTIX8LZt8lH9hqF // Assassin's Creed Origins
+https://open.spotify.com/album/19WTqbdqDMWMthZfkmxSbx // Assassin's Creed Odyssey
 https://open.spotify.com/album/48OeUXPCWaqsFNtKr6tqvq // Rayman Origins
 https://open.spotify.com/album/1XdgIQg5BoYpPkLTEB1uHp // Rayman Legends
 https://open.spotify.com/album/2qNJNe5NdM4SnAqfEtTkiX // Grow Home
@@ -392,3 +394,6 @@ https://open.spotify.com/album/1lzCABOpWG1uEkOmDlbx2R // Wizard of Legend
 https://open.spotify.com/album/6vKaTpEfIxe39EkoGlUv9i // Hacknet
 https://open.spotify.com/album/6XI5iTVkA3wmRD2KQEGEk4 // Hacknet Labyrinths
 https://open.spotify.com/album/3RBuZTQlpITEPKjlCoCyFe // Dropsy
+https://open.spotify.com/album/1Kx85IhG2J5vVOsNgDD8fw // Marvel's Spider-Man
+https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez // God of War 2018
+https://open.spotify.com/album/3h4zTCK9bk2KFjridCSxIW // Horizon Chase
