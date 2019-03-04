@@ -397,3 +397,6 @@ https://open.spotify.com/album/3RBuZTQlpITEPKjlCoCyFe // Dropsy
 https://open.spotify.com/album/1Kx85IhG2J5vVOsNgDD8fw // Marvel's Spider-Man
 https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez // God of War 2018
 https://open.spotify.com/album/3h4zTCK9bk2KFjridCSxIW // Horizon Chase
+https://open.spotify.com/album/6MJSSPWvW8WISXI68yy48j // Dark Souls
+https://open.spotify.com/album/5rq0BheaspnzakYDR2Z0pJ // Dark Souls 2
+https://open.spotify.com/album/3zSvk9thQMwQDrKMD0kJJv // Dark Souls 3
