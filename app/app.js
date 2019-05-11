@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Container, Row, Col } from 'reactstrap';
 import SearchBar from 'material-ui-search-bar';
 import AlbumsJSON from '../albums.json';
 
@@ -19,6 +18,7 @@ const Albums = [randAlbum].concat(
     return a.title.localeCompare(b.title);
   }).map(a => {
     a.cover = 'covers/'+a.id+'.jpg';
+    a.display = true;
     return a;
   })
 );
@@ -27,7 +27,7 @@ class App extends Component {
   constructor(props) {
     super(props);
 
-    // album is {cover, url, id, title}
+    // album is {cover, url, id, title, display}
     this.state = {albums: Albums};
   }
 
@@ -35,8 +35,13 @@ class App extends Component {
     var albums = Albums;
 
     if (searchTerm != "") {
-      albums = albums.filter(a => {
-        return a.title.toLowerCase().indexOf(searchTerm.toLowerCase()) >= 0;
+      albums = albums.map(a => {
+        if (a.title.toLowerCase().indexOf(searchTerm.toLowerCase()) >= 0) {
+          a.display = true;
+        } else {
+          a.display = false;
+        }
+        return a;
       });
     }
 
@@ -44,7 +49,6 @@ class App extends Component {
   }
 
   renderSearchBar() {
-
     return (
       <div className="header">
         <span className="input-group search-bar">
@@ -62,24 +66,24 @@ class App extends Component {
   }
 
   renderAlbum(a,i) {
+    if (!a.display) {
+      return null;
+    }
+
     return (
-      <Col key={a.id+i}>
-        <div className="album">
-          <a target="_blank" href={a.url}>
-            <img src={a.cover} className="album-cover"/>
-          </a>
-        </div>
-      </Col>
+      <div className="album" key={a.id+i}>
+        <a target="_blank" href={a.url}>
+          <img src={a.cover} className="album-cover"/>
+        </a>
+      </div>
     );
   }
 
   renderAlbums() {
     return (
-      <Container className="full-space">
-        <Row className="full-space">
-          {this.state.albums.map(this.renderAlbum)}
-        </Row>
-      </Container>
+      <div className="album-list">
+        {this.state.albums.map(this.renderAlbum)}
+      </div>
     );
   }
 
