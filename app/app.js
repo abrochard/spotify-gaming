@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import SearchBar from 'material-ui-search-bar';
+import LazyLoad, { forceCheck } from 'react-lazyload';
 import AlbumsJSON from '../albums.json';
 
 import './index.css';
@@ -45,7 +46,7 @@ class App extends Component {
       });
     }
 
-    this.setState({albums: albums});
+    this.setState({albums: albums}, () => {forceCheck();});
   }
 
   renderSearchBar() {
@@ -73,7 +74,9 @@ class App extends Component {
     return (
       <div className="album" key={a.id+i}>
         <a target="_blank" href={a.url}>
-          <img src={a.cover} className="album-cover"/>
+          <LazyLoad height={100} offset={100}>
+            <img src={a.cover} className="album-cover"/>
+          </LazyLoad>
         </a>
       </div>
     );
