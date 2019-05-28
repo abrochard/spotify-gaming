@@ -68,6 +68,7 @@ https://open.spotify.com/album/6vHk8R4jcOe0WZnTDDFgXV // Devil May Cry
 https://open.spotify.com/album/1RX5xk76MORiIGaz7HhQUp // Devil May Cry 2
 https://open.spotify.com/album/0dH0HxdxaVim5YiQ8k6nDm // Devil May Cry 4
 https://open.spotify.com/album/1FKr0dY4TzPeJ0m3V5u76k // DmC
+https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe // Devil May Cry 5
 https://open.spotify.com/album/2J2XOIDnJSyNko5Vc4GII5 // Prince of Persia Trilogy
 https://open.spotify.com/album/697brlI2HQip1Obx1WyrFu // Far Cry 2
 https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv // Far Cry 3
@@ -188,9 +189,15 @@ https://open.spotify.com/album/1D622TWd7hvxVZicNjVLjl // WatchDogs
 https://open.spotify.com/album/5hrEhqDc6sDLMstOBo8jWx // Fable
 https://open.spotify.com/album/4sqsrMqFFAGaKuWWdwoekJ // Fable II
 https://open.spotify.com/album/5eg2wIDanI6C74BkxtMs02 // Fable III
+https://open.spotify.com/album/2CvZvoryzjulwuE8QFBNkC // Resident Evil 2
+https://open.spotify.com/album/29Ds9NBrAu0wh4Y1vdkCmW // Resident Evil 3
+https://open.spotify.com/album/1J7UrlOUQT7ugrdPNFxRfN // Resident Evil 4
 https://open.spotify.com/album/1s5GqO8enWc2EmJHhpUWn1 // Resident Evil 5
 https://open.spotify.com/album/7zINFDX9Xfrfwv8SU4iuIX // Resident Evil 6
 https://open.spotify.com/album/45H9DLevekKB41uW23dSBf // Resident Evil 7
+https://open.spotify.com/album/0JlP84Pd4ryi8pbka1hllA // Resident Evil Revelations
+https://open.spotify.com/album/5W8ccSPOp8cX95Pp4L22al // Resident Evil Revelations 2
+https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2 // Resident Evil 2 Remake
 https://open.spotify.com/album/031LVeJpGTNHThqRXIHXo9 // Seum
 https://open.spotify.com/album/4Iwgv9T2tYLu8gd9P6CNBE // Styx: Shards of Darkness
 https://open.spotify.com/album/43ZjR5Xf8kHWuCjMhJFZW2 // DuckTales Remastered
@@ -206,7 +213,11 @@ https://open.spotify.com/album/5gictixyQqxMtZh6HFz9Nf // Command & Conquer 3: Ti
 https://open.spotify.com/album/4kbqvLF4mRY0XAbX1NUzsq // Command & Conquer: Red Alert 3
 https://open.spotify.com/album/79VSQh5zw5xh8QNiLUmCwD // Command & Conquer 4: Tiberian Twilight
 https://open.spotify.com/album/4jkBDRFtxJ0lKWYcqRSrGZ // Street Fighter II
+https://open.spotify.com/album/6SoRVUwpD4odggcEThCInH // Street Fighter III Third Strike
+https://open.spotify.com/album/0o6BAO4s7aNWoEC5A0iSPX // Street Fighter Zero3
 https://open.spotify.com/album/10PtM3eb2EZ2rofbqRzHCt // Street Fighter 4
+https://open.spotify.com/album/1F9WH2nUwxVw36lFSd1ubA // Street Fighter 5
+https://open.spotify.com/album/3sQuNYzXpTcvjsSuVztGf4 // Street Fighter 5 Arcade Edition
 https://open.spotify.com/album/7oy6jZMgvqGBKSo2EcoeMT // Darksiders
 https://open.spotify.com/album/3tRRbyO3fzaeAUYkIIhG4w // Darksiders II
 https://open.spotify.com/album/49yisjohjVCQ8kem7RP0Iq // Borderlands
@@ -326,6 +337,10 @@ https://open.spotify.com/album/2viinzlDkAeC3KprABzu4M // LocoRoco
 https://open.spotify.com/album/0OKyZzH4nCkGIcVZoLwIcU // Mario + Rabbids Kingdom Battle
 https://open.spotify.com/album/7hrYJhZq9ySiEbBpezjmj4 // Medal Of Honor
 https://open.spotify.com/album/6erJz42GIYamzW3QVRzA9N // Monster Hunter 3
+https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE // Monster Hunter Frontier G
+https://open.spotify.com/album/7wfws2r87STQ7y7lSgXRmC // Monster Hunter 4
+https://open.spotify.com/album/5Nn8ZLhvrI2uJ7YosLER7r // Monster Hunter X
+https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh // Monster Hunter World
 https://open.spotify.com/album/35zi7Bek6cNttCOwK7aW0V // NiGHTS into dreams
 https://open.spotify.com/album/5nvkeEgntNSvMJn5V1Mgkp // No Man's Sky
 https://open.spotify.com/album/46JHOigoGnfNu9VNdVzNFT // Octodad
@@ -352,6 +367,15 @@ https://open.spotify.com/album/2lALyjc21c7vAfKKrP01hn // Mega Man 7
 https://open.spotify.com/album/5Wc73Z0cANwfuGSpoD57pG // Mega Man 8
 https://open.spotify.com/album/4ky5Ylo3OqpIaizU83bR56 // Mega Man 9
 https://open.spotify.com/album/4bGdUzfRmXnUGmtHTsmucw // Mega Man 10
+https://open.spotify.com/album/5jiyj28H1sVyo8zfwtaU2u // Mega Man 11
+https://open.spotify.com/album/5BfJWzKHKG5UrRPsPEgWYs // Mega Man X
+https://open.spotify.com/album/6q0x5ZP2RGnXcmO1jnjM89 // Mega Man X2
+https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw // Mega Man X3
+https://open.spotify.com/album/5AAhhtbGdATLsDxEHSwLEe // Mega Man X4
+https://open.spotify.com/album/3fnL9dQdMOhxLfpMQq3jBp // Mega Man X5
+https://open.spotify.com/album/3wEg0ueTLGpa5ar7XlC88S // Mega Man X6
+https://open.spotify.com/album/5HepA9JwnXBdIYAp1RdCPW // Mega Man X7
+https://open.spotify.com/album/6xLS6m4VKzxuXkU2DR6pb0 // Mega Man X8
 https://open.spotify.com/album/00waL8Nk8LngAC5vVxNqyN // Splatterhouse Vol. 1
 https://open.spotify.com/album/0yJpa4Jfiksvl5rE0kaJIb // Splatterhouse Vol. 2
 https://open.spotify.com/album/6IYsd47IcQYLJbrn83oXJt // Galaxy Force II & Thunder Blade
@@ -400,3 +424,21 @@ https://open.spotify.com/album/3h4zTCK9bk2KFjridCSxIW // Horizon Chase
 https://open.spotify.com/album/6MJSSPWvW8WISXI68yy48j // Dark Souls
 https://open.spotify.com/album/5rq0BheaspnzakYDR2Z0pJ // Dark Souls 2
 https://open.spotify.com/album/3zSvk9thQMwQDrKMD0kJJv // Dark Souls 3
+https://open.spotify.com/album/2HYVsQ63r0wsqy73ORcTQ5 // Dino Crisis
+https://open.spotify.com/album/0FCETd2GkvnfBj2zaGi8er // Dino Crisis 2
+https://open.spotify.com/album/07NnkMETf6X2XvZyn2nACB // Okami Vol. 1
+https://open.spotify.com/album/3IJyQlnLobfiaVxOca4YHm // Okami Vol. 2
+https://open.spotify.com/album/4HbjvA7jhIhbRmLJi19yPh // Okami Vol. 3
+https://open.spotify.com/album/44egYoICIMQdGRkkACFuhP // Okami Vol. 4
+https://open.spotify.com/album/4t0L6Ylxb5fDhimuFTU2C8 // Okami Vol. 5
+https://open.spotify.com/album/44lkicoXn9CBXLsjZ3GdnK // DEMENTO
+https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq // Ace Attorney
+https://open.spotify.com/album/0A4q0OGDrI7p7ywDLAOZs8 // Ace Attorney 2
+https://open.spotify.com/album/1sA7DLlNJ7NmYbteylgRBD // Ace Attorney 3
+https://open.spotify.com/album/3haM8GP0d5GVapGEwxyH2O // Ace Attorney 4
+https://open.spotify.com/album/6hYZUfoptWRXmE46qCm8sK // Ace Attorney 5
+https://open.spotify.com/album/2GCijc7wVBbmZlXTOZcaMF // Ace Attorney 6
+https://open.spotify.com/album/3sVkuulTWK5S5HGeYX6t6f // Breath of Fire
+https://open.spotify.com/album/6nJWvn5WMTaNJKKwUSiLKy // Breath of Fire 2
+https://open.spotify.com/album/2IBb2ojl0DMaX0Mcga7skM // Breath of Fire 3
+https://open.spotify.com/album/0a3Czvqgs7Kv6PvCB9q26j // E.X. Troopers
