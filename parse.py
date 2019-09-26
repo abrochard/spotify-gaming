@@ -39,7 +39,7 @@ class Album():
         self.cover = 'http://i.scdn.co/image/' + match[0]
 
         # get title
-        match = re.findall('<meta property="twitter:title" content="([^"]+)">', content)
+        match = re.findall('<meta property="twitter:title" content="([^"]+)"', content)
         self.title = match[0]
 
     def download_cover(self):

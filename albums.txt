@@ -445,3 +445,24 @@ https://open.spotify.com/album/0a3Czvqgs7Kv6PvCB9q26j // E.X. Troopers
 https://open.spotify.com/album/2JF8JBJSIB9zm5iOjrTKwY // Deadbolt
 https://open.spotify.com/album/1htHMnxonxmyHdKE2uDFMR // Beat saber
 https://open.spotify.com/album/02aBh68KGFw7Q8G387ITRK // Beat saber Vol. 2
+https://open.spotify.com/album/3SeBXn9dP4sB58JNB4vUj8 // Pikuniku
+https://open.spotify.com/album/4cgOaAHSDBgnHTubKQszWt // Burly Men at Sea
+https://open.spotify.com/album/1WVfTi7jA3zElvg88PQvgg // SteamWorld Quest
+https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6 // Ibb & Obb
+https://open.spotify.com/album/0Iw5Z8FWMPL28DC44z2kda // Thomas was alone
+https://open.spotify.com/album/2YLWX2kkgkqf1MNq0dEmG4 // Old Man's Journey
+https://open.spotify.com/album/3MsVFdknU6YMOcwo21SrIK // Oxenfree
+https://open.spotify.com/album/40kxhlVm4mMYRIrnMk23FP // Oxenfree: Side Stories
+https://open.spotify.com/album/7DHfA35P7iebqSHAHztZrk // Sunset
+https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM // Everybody’s Gone To The Rapture
+https://open.spotify.com/album/3X5XU0ZHHFupmGIrciis3H // Final Fantasy I
+https://open.spotify.com/album/4zCrrzja7fnTKSCRNdknm2 // Final Fantasy II PS Version
+https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6 // Final Fantasy II
+https://open.spotify.com/album/4gy5cJBC03yZlJ5sE94bLW // Final Fantasy II PS Version
+https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd // Final Fantasy III
+https://open.spotify.com/album/55779J248b7xDIJd3iExEn // Final Fantasy IV
+https://open.spotify.com/album/4Gm1PKfsnSdxz4BQGrvpv8 // Final Fantasy V
+https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY // Final Fantasy VI
+https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK // Final Fantasy VII
+https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn // Final Fantasy VIII
+https://open.spotify.com/album/4mQ3FCtXxa5jpbn4Uw8yCQ // Blue Dragon
