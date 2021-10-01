@@ -57,6 +57,7 @@ https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo // Ori and the Blind Fores
 https://open.spotify.com/album/7fS5tGixMNR7s3G5Eh515y // Mirror's Edge
 https://open.spotify.com/album/6EkvqSSh1Hu9n66AJLTkYB // Mirror's Edge Catalyst
 https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN // Super Meat Boy
+https://open.spotify.com/album/2OYqI2sB2EvI6IjEbLT2vH // Super Meat Boy Forever
 https://open.spotify.com/album/28LnQrJf1iPp3p7bRBt782 // Metroid Anthology
 https://open.spotify.com/album/1pdM9htaPsGmk7rkpVNEDH // Batman Arkham Asylum
 https://open.spotify.com/album/6skLYY2WEVjQ6tvbkSlmTG // Batman Arkham City
@@ -511,3 +512,16 @@ https://open.spotify.com/album/75bUWu8nNr1m7zGQDck1Jc // Persona 3 & 4 Vocal
 https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC // Persona 5
 https://open.spotify.com/album/0bMzZ3T2Y28E658ExKIuP5 // Never More-"Persona 4" Reincarnation-
 https://open.spotify.com/album/0mQimPpFiYNsCkQ6dmgcCX // Paradise Killer
+https://open.spotify.com/album/2JshDNPO0R0OrXRqO7oIIB // A Short Hike
+https://open.spotify.com/album/6t4gSUaC3GZoUac8gpOFtn // Firewatch
+https://open.spotify.com/album/4QZfNdjXnyHYWkGUm9wSnx // Cultist Simulator
+https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb // Hades
+https://open.spotify.com/album/2ejNCIw63wz6sppqbdcHf6 // Forza Motorsport 4
+https://open.spotify.com/album/3bVo0aZ1WMWe6ZzJHMrRvP // Forza Motorsport 5
+https://open.spotify.com/album/1KiGipf5sirTePzkG98w3c // Forza Motorsport 6
+https://open.spotify.com/album/301hV3WoptLauT50U2kqML // Forza Motorsport 7
+https://open.spotify.com/album/7IAB2sKMWwni4vmapc4PCq // Forza Horizon 4
+https://open.spotify.com/album/6AcsHv54tCtm46oMA58f6y // Forza Street
+https://open.spotify.com/album/33yXpgE2O7t4nuYKVxMymq // Guacamelee 2
+
+
