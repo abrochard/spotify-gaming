@@ -6,3 +6,8 @@ node_modules:
 
 generate:
 	python3 parse.py
+
+
+up: generate build
+	git add public/* albums.*
+	git status

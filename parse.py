@@ -35,8 +35,8 @@ class Album():
         content = str(req.content)
 
         # get cover url
-        match = re.findall('background-image:url\(//i.scdn.co/image/([0-9a-z]+)\)', content)
-        self.cover = 'http://i.scdn.co/image/' + match[0]
+        match = re.findall('i.scdn.co/image/([0-9a-z]+)', content)
+        self.cover = 'https://i.scdn.co/image/' + match[0]
 
         # get title
         match = re.findall('<meta property="twitter:title" content="([^"]+)"', content)
