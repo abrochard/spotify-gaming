@@ -267,7 +267,16 @@ https://open.spotify.com/album/7sVQDE20rLpkvFx2AsyVs9 // Space Harrier II
 https://open.spotify.com/album/21HaSseIeYh8dgyp17zPUr // Syberia 2
 https://open.spotify.com/album/4od09wJjkv8bVHh0dLeWL5 // Syberia 3
 https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4 // Skyrim
-https://open.spotify.com/album/02S1126Q5E4gUEtpTI6W38 // WoW Legion
+https://open.spotify.com/album/3McPVq1RT8F2ERSiajR3WS // World of Warcraft
+https://open.spotify.com/album/36Dk0lgHLB8nfpaC8EvGiy // World of Warcraft: Wrath of the Lich King
+https://open.spotify.com/album/26RztoSsSTQCNqxf6sNWGz // World of Warcraft: Cataclysm
+https://open.spotify.com/album/6LW1VUihmMg6qAM3tUPXFe // World of Warcraft: The Burning Crusade
+https://open.spotify.com/album/2FJ23wcUQ1sdOTJNBR6PSJ // World of Warcraft: Shadowlands
+https://open.spotify.com/album/1RDUH86NRgiQTvwlUJ01yY // World of Warcraft: Shadowlands - Chains of Domination
+https://open.spotify.com/album/4imGoSQoYnDrUJsQ9b6XID // World of Warcraft: Battle for Azeroth
+https://open.spotify.com/album/13S74XwQHqT28nOyvwpFKh // World of Warcraft: Taverns of Azeroth
+https://open.spotify.com/album/0MsAQN2gxLmzmIzXzva1BD // World of Warcraft: Warlords of Draenor
+https://open.spotify.com/album/02S1126Q5E4gUEtpTI6W38 // World of Warcraft Legion
 https://open.spotify.com/album/1b51EuX7pwMLApLNB4P4gX // Killer Instinct Season 1
 https://open.spotify.com/album/2XQNpQhzOvPagQ8wGuUfqS // Killer Instinct Season 2
 https://open.spotify.com/album/3Fw5BGA4GBLtxFWU8BJnCG // Killer Instinct Season 3
