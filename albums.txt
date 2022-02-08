@@ -326,6 +326,7 @@ https://open.spotify.com/album/1jCfzTRSGbTSr8IGiBoROz // Mafia III
 https://open.spotify.com/album/0828iyOw4VHFgw6qnxdIdJ // Samorost 3
 https://open.spotify.com/album/5rv5jpjR8kn1lYXu9EGd7R // Little Big Adventure
 https://open.spotify.com/album/0mDSPMGVdWORtoEuxhyMJx // Shovel Knight
+https://open.spotify.com/album/2GvoGdztP6rTHFFguk1CtW // Shovel Knight: Specter of Torment
 https://open.spotify.com/album/7Kkoj4rUm2ygO8AaFOapBd // Dust: An Elysian Tail
 https://open.spotify.com/album/06i5zPGRMQaAbDWq4ITNjj // Limbo
 https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva // For Honor
@@ -544,3 +545,5 @@ https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z // Plants Vs. Zombies
 https://open.spotify.com/album/6ErjoGBl4xj1AfgPjcAYsk // Subnautica
 https://open.spotify.com/album/3IaQ0DQMIXMShbMDNepeTK // Guilty Gear Strive Vol. 1
 https://open.spotify.com/album/1WZkUbVLve4Prx55yZF2Xt // Guilty Gear Xrd - Sign-
+https://open.spotify.com/album/4laHtQi53rP6MreFXoUbJ8 // Streets of Rage 4
+https://open.spotify.com/album/4Q92geJpcKqtx7Cmsi5qjm // Starbound
