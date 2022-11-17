@@ -154,6 +154,7 @@ https://open.spotify.com/album/7KwqcypmfvpVejdUyZTWMX // Dragon Age: Inquisition
 https://open.spotify.com/album/4ElpWQqlpCvSznwxK4U35P // Crysis
 https://open.spotify.com/album/6uNxILubrUvcyTqG6VuSdk // Crysis 2
 https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh // The Last of Us
+https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV // The Last of Us Vol. 2
 https://open.spotify.com/album/5zhAb5BiVj4cXCXW760wd4 // Civ Beyond Earth
 https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj // Halo
 https://open.spotify.com/album/7iiDBLPF600GryzR3AX6rc // Halo Combat Evolved
@@ -327,6 +328,7 @@ https://open.spotify.com/album/0828iyOw4VHFgw6qnxdIdJ // Samorost 3
 https://open.spotify.com/album/5rv5jpjR8kn1lYXu9EGd7R // Little Big Adventure
 https://open.spotify.com/album/0mDSPMGVdWORtoEuxhyMJx // Shovel Knight
 https://open.spotify.com/album/2GvoGdztP6rTHFFguk1CtW // Shovel Knight: Specter of Torment
+https://open.spotify.com/album/0mDSPMGVdWORtoEuxhyMJx // Shovel Knight: The Definitive Soundtrack
 https://open.spotify.com/album/7Kkoj4rUm2ygO8AaFOapBd // Dust: An Elysian Tail
 https://open.spotify.com/album/06i5zPGRMQaAbDWq4ITNjj // Limbo
 https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva // For Honor
@@ -432,6 +434,7 @@ https://open.spotify.com/album/6vKaTpEfIxe39EkoGlUv9i // Hacknet
 https://open.spotify.com/album/6XI5iTVkA3wmRD2KQEGEk4 // Hacknet Labyrinths
 https://open.spotify.com/album/3RBuZTQlpITEPKjlCoCyFe // Dropsy
 https://open.spotify.com/album/1Kx85IhG2J5vVOsNgDD8fw // Marvel's Spider-Man
+https://open.spotify.com/album/6CaxswOwsM2r7jchhSyTb8 // Marvel's Spider-Man Miles Morales
 https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez // God of War 2018
 https://open.spotify.com/album/3h4zTCK9bk2KFjridCSxIW // Horizon Chase
 https://open.spotify.com/album/6MJSSPWvW8WISXI68yy48j // Dark Souls
@@ -547,3 +550,14 @@ https://open.spotify.com/album/3IaQ0DQMIXMShbMDNepeTK // Guilty Gear Strive Vol.
 https://open.spotify.com/album/1WZkUbVLve4Prx55yZF2Xt // Guilty Gear Xrd - Sign-
 https://open.spotify.com/album/4laHtQi53rP6MreFXoUbJ8 // Streets of Rage 4
 https://open.spotify.com/album/4Q92geJpcKqtx7Cmsi5qjm // Starbound
+https://open.spotify.com/album/5PsK8E8iKpyv03ptxnJoIp // BPM
+https://open.spotify.com/album/5TH6ndUBBEy4G0vF7y5VRo // Killing Floor 2
+https://open.spotify.com/album/2wOSuU41ufyX9OkcBZ9F6C // Jedi Fallen Order
+https://open.spotify.com/album/5FDDMVvTedW6pf49044B3T // Warframe
+https://open.spotify.com/album/19nBFW5TDocB8rQTBHO9Qc // Soma
+https://open.spotify.com/album/7yn7mgFGiWZ55EJWGiSMKx // Alone in the Dark
+https://open.spotify.com/album/7hMLyLcxF0LyjxI93RjYAg // Gotham Knights
+https://open.spotify.com/album/359E5Uu9UapJWnXp2SJ1Hl // River City Girls
+https://open.spotify.com/album/0U1h0B0i4v1m5R2ijtOuee // Wingspan
+https://open.spotify.com/album/5mVO2ZbuN7Cz6wgeyJPGLH // Astro's Playroom
+https://open.spotify.com/album/7fVQOHTYv5BberF0LmN2Tb // Moonlighter
