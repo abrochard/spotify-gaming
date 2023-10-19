@@ -1,5 +1,5 @@
 build: node_modules
-	node node_modules/webpack/bin/webpack.js --config prod.config.js
+	npm run build
 
 node_modules:
 	npm install
@@ -7,7 +7,6 @@ node_modules:
 generate:
 	python3 parse.py
 
-
 up: generate build
-	git add public/* albums.*
+	git add albums.*
 	git status

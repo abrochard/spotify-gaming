@@ -8,7 +8,7 @@ HEADERS = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KH
 ALBUMS_JSON = 'albums.json'
 
 def format_destination(album_id):
-    return 'public/covers/' + album_id + '.jpg'
+    return 'static/covers/' + album_id + '.jpg'
 
 def parse_id(url):
     s = url.split('/')
@@ -80,7 +80,7 @@ def get_content(url):
 
 def save_albums(albums):
     f = open(ALBUMS_JSON, 'w')
-    f.write(json.dumps(albums))
+    f.write(json.dumps(albums, indent=2))
     f.close()
 
 def load_albums():
