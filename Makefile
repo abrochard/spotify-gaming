@@ -10,3 +10,5 @@ generate:
 up: generate build
 	git add albums.*
 	git status
+	git commit -m 'adding albums'
+	echo 'Run "git push"'
