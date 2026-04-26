@@ -563,3 +563,4 @@ https://open.spotify.com/album/5mVO2ZbuN7Cz6wgeyJPGLH // Astro's Playroom
 https://open.spotify.com/album/7fVQOHTYv5BberF0LmN2Tb // Moonlighter
 https://open.spotify.com/album/4NUYxiJfFBJYHq95cgCUv8 // x-blades
 https://open.spotify.com/album/4zvH6jwBB0YrCCggPmxLDG // Art of Rally
+https://open.spotify.com/album/0DDzOxDuZnMHv5YZ7wQ8zb // John Wick Hex
